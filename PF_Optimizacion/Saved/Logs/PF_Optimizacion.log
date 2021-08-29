@@ -1950,3 +1950,369 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.29-19.43.50:207][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.08.29-19.43.50:225][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
 [2021.08.29-19.43.50:262][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.08.29-19.55.45:935][404]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.08.29-19.55.45:937][404]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2021.08.29-19.55.45:937][404]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2021.08.29-19.55.45:953][404]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.08.29-19.55.45:966][404]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.08.29-19.55.45:966][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.08.29-19.55.46:002][404]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacter_Auto5589B44C349BF69FF658688BD7FA057C8.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2021.08.29-19.55.46:004][404]LogFileHelpers: Auto-saving content packages took 0.067
+[2021.08.29-19.56.04:901][469]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.08.29-19.56.05:101][469]LogUObjectHash: Compacting FUObjectHashTables data took   9.29ms
+[2021.08.29-19.56.06:488][538]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacterDE281B754DA9D80C041DA880205F9E78.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.08.29-19.56.06:518][538]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.08.29-19.56.06:518][538]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.29-19.56.08:917][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.08.29-19.56.08:933][665]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonExampleMap8E414C5B4DC2EDB7658111BBF333213F.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.29-19.56.09:537][665]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonExampleMap_BuiltDataF69FD9004D51F78564EF59AB1D510ECE.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.29-19.56.09:628][665]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-19.56.09:628][665]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.29-19.56.09:628][665]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.29-19.56.11:426][770]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.29-19.56.11:430][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.29-19.56.11:430][770]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (29 ago. 2021 9:56:11)
+[2021.08.29-19.56.11:453][770]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.29-19.56.11:468][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014643s)
+[2021.08.29-19.56.11:469][770]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.29-19.56.11:469][770]LogPlayLevel: PIE: World Init took: (0.001680s)
+[2021.08.29-19.56.11:469][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016522s)
+[2021.08.29-19.56.11:496][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.08.29-19.56.11:497][770]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.08.29-19.56.11:497][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-19.56.11:497][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-19.56.11:497][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-19.56.11:497][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-19.56.11:497][770]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-19.56.11:497][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-19.56.11:497][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-19.56.11:497][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-19.56.11:498][770]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-19.56.11:498][770]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-19.56.11:503][770]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-19.56.11:503][770]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-19.56.11:514][770]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.08.29-19.56.11:514][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-19.56.11:514][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-19.56.11:515][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-19.56.11:515][770]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.29-19.56.11:515][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-19.56.11:515][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-19.56.11:529][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-19.56.11:529][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-19.56.11:529][770]LogInit: FAudioDevice initialized.
+[2021.08.29-19.56.11:529][770]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2021.08.29-19.56.11:536][770]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-19.56.11:538][770]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.29-14.56.11
+[2021.08.29-19.56.11:539][770]LogWorld: Bringing up level for play took: 0.001271
+[2021.08.29-19.56.11:539][770]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.08.29-19.56.11:541][770]PIE: El servidor ha iniciado la sesión
+[2021.08.29-19.56.11:541][770]PIE: Play in editor total start time 0.112 seconds.
+[2021.08.29-19.56.14:644][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-19.56.14:644][948]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.29-19.56.14:644][948]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-19.56.14:644][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-19.56.14:653][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-19.56.14:657][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-19.56.14:678][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-19.56.14:678][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-19.56.14:679][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-19.56.14:697][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.08.29-19.56.14:742][949]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.08.29-19.59.30:610][906]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.08.29-19.59.30:690][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.08.29-19.59.31:694][951]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacterBBBAC68E44DE826C4D395182062DC09E.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.08.29-19.59.31:707][951]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.08.29-19.59.31:707][951]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.29-19.59.34:179][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.08.29-19.59.34:219][ 83]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonExampleMap8BC11E74450B5BE455712A903DD72CE6.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.29-19.59.34:403][ 83]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonExampleMap_BuiltData2BB7A5F84481DD8B26601EB82320804E.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.29-19.59.34:440][ 83]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-19.59.34:440][ 83]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.29-19.59.34:440][ 83]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.29-19.59.35:055][120]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.29-19.59.35:059][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.29-19.59.35:060][120]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (29 ago. 2021 9:59:35)
+[2021.08.29-19.59.35:084][120]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.29-19.59.35:096][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011819s)
+[2021.08.29-19.59.35:097][120]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.29-19.59.35:098][120]LogPlayLevel: PIE: World Init took: (0.001324s)
+[2021.08.29-19.59.35:098][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013317s)
+[2021.08.29-19.59.35:124][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.08.29-19.59.35:125][120]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.08.29-19.59.35:125][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-19.59.35:125][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-19.59.35:125][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-19.59.35:125][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-19.59.35:125][120]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-19.59.35:125][120]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-19.59.35:125][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-19.59.35:125][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-19.59.35:126][120]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-19.59.35:126][120]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-19.59.35:131][120]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-19.59.35:131][120]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-19.59.35:151][120]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.08.29-19.59.35:151][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-19.59.35:151][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-19.59.35:151][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-19.59.35:152][120]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.29-19.59.35:152][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-19.59.35:152][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-19.59.35:165][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-19.59.35:165][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-19.59.35:165][120]LogInit: FAudioDevice initialized.
+[2021.08.29-19.59.35:165][120]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2021.08.29-19.59.35:175][120]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-19.59.35:177][120]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.29-14.59.35
+[2021.08.29-19.59.35:177][120]LogWorld: Bringing up level for play took: 0.001276
+[2021.08.29-19.59.35:177][120]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.08.29-19.59.35:179][120]PIE: El servidor ha iniciado la sesión
+[2021.08.29-19.59.35:179][120]PIE: Play in editor total start time 0.121 seconds.
+[2021.08.29-19.59.43:526][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-19.59.43:526][591]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.29-19.59.43:526][591]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-19.59.43:526][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-19.59.43:538][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-19.59.43:547][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-19.59.43:576][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-19.59.43:576][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-19.59.43:577][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-19.59.43:595][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.08.29-19.59.43:623][592]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.08.29-20.00.16:347][855]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.08.29-20.00.16:465][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.08.29-20.00.19:279][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.29-20.00.19:308][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.29-20.00.19:308][ 18]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (29 ago. 2021 10:00:19)
+[2021.08.29-20.00.19:345][ 18]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.29-20.00.19:359][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013612s)
+[2021.08.29-20.00.19:360][ 18]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.29-20.00.19:360][ 18]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2021.08.29-20.00.19:360][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015128s)
+[2021.08.29-20.00.19:392][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.08.29-20.00.19:393][ 18]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.08.29-20.00.19:393][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-20.00.19:393][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-20.00.19:393][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-20.00.19:393][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-20.00.19:393][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-20.00.19:393][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-20.00.19:393][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-20.00.19:393][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-20.00.19:393][ 18]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-20.00.19:393][ 18]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-20.00.19:399][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-20.00.19:399][ 18]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-20.00.19:420][ 18]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.08.29-20.00.19:421][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-20.00.19:421][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-20.00.19:421][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-20.00.19:421][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.29-20.00.19:421][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-20.00.19:421][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-20.00.19:434][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-20.00.19:434][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-20.00.19:434][ 18]LogInit: FAudioDevice initialized.
+[2021.08.29-20.00.19:434][ 18]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2021.08.29-20.00.19:443][ 18]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-20.00.19:445][ 18]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.29-15.00.19
+[2021.08.29-20.00.19:445][ 18]LogWorld: Bringing up level for play took: 0.001352
+[2021.08.29-20.00.19:445][ 18]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.08.29-20.00.19:447][ 18]PIE: El servidor ha iniciado la sesión
+[2021.08.29-20.00.19:448][ 18]PIE: Play in editor total start time 0.141 seconds.
+[2021.08.29-20.00.43:136][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-20.00.43:136][434]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.29-20.00.43:136][434]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-20.00.43:137][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-20.00.43:145][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-20.00.43:151][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-20.00.43:174][434]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.29-20.00.43:174][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-20.00.43:175][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-20.00.43:189][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-20.00.43:193][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.08.29-20.00.43:208][435]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.08.29-20.00.46:789][637]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacter4B355C74496FF048AA6AB8B73046985C.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.08.29-20.00.46:802][637]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.08.29-20.00.46:802][637]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.29-20.00.48:183][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.08.29-20.00.48:224][708]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonExampleMap289CC6E040C177DFFFF052A566D86B4A.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.29-20.00.48:471][708]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonExampleMap_BuiltData718BF9D84DBE7153C060A9A66C84FD45.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.29-20.00.48:483][708]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-20.00.48:483][708]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.29-20.00.48:483][708]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.29-20.00.52:418][940]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.08.29-20.00.54:144][969]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.08.29-20.00.55:125][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.29-20.03.31:417][460]LogContentBrowser: Deferred new asset file creation: ThirdPersonCharacter1
+[2021.08.29-20.03.31:466][460]LogContentBrowser: Creating deferred item: ThirdPersonCharacter1
+[2021.08.29-20.03.39:804][957]LogContentBrowser: Attempting asset rename: ThirdPersonCharacter1 -> Enemigo
+[2021.08.29-20.03.40:333][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.08.29-20.03.40:560][957]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/EnemigoBCB47C5F487BEC3DCAF4A199C9D12641.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Enemigo.uasset'
+[2021.08.29-20.03.41:404][957]LogContentBrowser: End creating deferred item ThirdPersonCharacter1
+[2021.08.29-20.03.41:543][957]AssetCheck: New page: Asset Save: Enemigo
+[2021.08.29-20.03.41:543][957]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Enemigo.Enemigo
+[2021.08.29-20.03.44:268][106]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Enemigo.Enemigo
+[2021.08.29-20.03.50:399][372]BlueprintLog: New page: Compilar Enemigo
+[2021.08.29-20.03.50:572][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.08.29-20.03.51:385][411]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/EnemigoA42C2C9D4D1D12E3D421BF801BBBD483.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Enemigo.uasset'
+[2021.08.29-20.03.51:397][411]AssetCheck: New page: Asset Save: Enemigo
+[2021.08.29-20.03.51:397][411]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Enemigo.Enemigo
+[2021.08.29-20.04.03:655][925]Cmd: DELETE
+[2021.08.29-20.04.03:665][925]Cmd: ACTOR DELETE
+[2021.08.29-20.04.03:854][925]LogEditorActor: Deleted Actor: Enemigo_C
+[2021.08.29-20.04.03:939][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.08.29-20.04.03:941][925]LogEditorActor: Deleted 1 Actors (0.176 secs)
+[2021.08.29-20.04.20:198][847]BlueprintLog: New page: Compilar Enemigo
+[2021.08.29-20.04.20:266][847]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.08.29-20.04.21:306][899]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/Enemigo22BEC47E451C7E5C0D58A094F185C02B.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Enemigo.uasset'
+[2021.08.29-20.04.21:321][899]AssetCheck: New page: Asset Save: Enemigo
+[2021.08.29-20.04.21:321][899]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Enemigo.Enemigo
+[2021.08.29-20.04.32:562][436]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.29-20.04.32:568][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.29-20.04.32:569][436]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (29 ago. 2021 10:04:32)
+[2021.08.29-20.04.32:569][436]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.29-20.04.32:582][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012639s)
+[2021.08.29-20.04.32:583][436]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.29-20.04.32:583][436]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2021.08.29-20.04.32:583][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014138s)
+[2021.08.29-20.04.32:620][436]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.08.29-20.04.32:622][436]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.08.29-20.04.32:622][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-20.04.32:622][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-20.04.32:622][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-20.04.32:622][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-20.04.32:622][436]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-20.04.32:622][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-20.04.32:622][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-20.04.32:622][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-20.04.32:623][436]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-20.04.32:623][436]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-20.04.32:628][436]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-20.04.32:628][436]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-20.04.32:640][436]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.08.29-20.04.32:640][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-20.04.32:640][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-20.04.32:640][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-20.04.32:640][436]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.29-20.04.32:640][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-20.04.32:640][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-20.04.32:653][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-20.04.32:653][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-20.04.32:653][436]LogInit: FAudioDevice initialized.
+[2021.08.29-20.04.32:654][436]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2021.08.29-20.04.32:659][436]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-20.04.32:678][436]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.29-15.04.32
+[2021.08.29-20.04.32:678][436]LogWorld: Bringing up level for play took: 0.017823
+[2021.08.29-20.04.32:678][436]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.08.29-20.04.32:681][436]PIE: El servidor ha iniciado la sesión
+[2021.08.29-20.04.32:681][436]PIE: Play in editor total start time 0.116 seconds.
+[2021.08.29-20.04.43:702][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-20.04.43:702][ 90]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.29-20.04.43:702][ 90]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-20.04.43:702][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-20.04.43:713][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-20.04.43:752][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-20.04.43:777][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.29-20.04.43:777][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-20.04.43:778][ 90]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-20.04.43:792][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-20.04.43:796][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.08.29-20.04.43:862][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.08.29-20.09.25:545][368]BlueprintLog: New page: Compilar Enemigo
+[2021.08.29-20.09.25:745][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.08.29-20.09.26:898][420]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/Enemigo7DC11B8146AFF990422319B6B2EEB9E5.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Enemigo.uasset'
+[2021.08.29-20.09.26:918][420]AssetCheck: New page: Asset Save: Enemigo
+[2021.08.29-20.09.26:918][420]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Enemigo.Enemigo
+[2021.08.29-20.09.32:292][736]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.29-20.09.32:296][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.29-20.09.32:296][736]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (29 ago. 2021 10:09:32)
+[2021.08.29-20.09.32:296][736]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.29-20.09.32:312][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015966s)
+[2021.08.29-20.09.32:314][736]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.29-20.09.32:314][736]LogPlayLevel: PIE: World Init took: (0.001435s)
+[2021.08.29-20.09.32:314][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017564s)
+[2021.08.29-20.09.32:344][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.08.29-20.09.32:347][736]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.08.29-20.09.32:347][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-20.09.32:347][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-20.09.32:347][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-20.09.32:347][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-20.09.32:347][736]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-20.09.32:347][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-20.09.32:347][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-20.09.32:347][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-20.09.32:347][736]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-20.09.32:347][736]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-20.09.32:352][736]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-20.09.32:352][736]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-20.09.32:363][736]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.08.29-20.09.32:363][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-20.09.32:364][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-20.09.32:364][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-20.09.32:364][736]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.29-20.09.32:364][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-20.09.32:364][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-20.09.32:377][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-20.09.32:377][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-20.09.32:377][736]LogInit: FAudioDevice initialized.
+[2021.08.29-20.09.32:377][736]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonExampleMap'.
+[2021.08.29-20.09.32:385][736]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-20.09.32:388][736]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.29-15.09.32
+[2021.08.29-20.09.32:388][736]LogWorld: Bringing up level for play took: 0.001975
+[2021.08.29-20.09.32:388][736]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.08.29-20.09.32:390][736]PIE: El servidor ha iniciado la sesión
+[2021.08.29-20.09.32:391][736]PIE: Play in editor total start time 0.096 seconds.
+[2021.08.29-20.09.56:329][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-20.09.56:329][169]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.29-20.09.56:330][169]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-20.09.56:330][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-20.09.56:343][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-20.09.56:382][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-20.09.56:428][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.29-20.09.56:429][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-20.09.56:429][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-20.09.56:444][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-20.09.56:448][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.08.29-20.09.56:483][170]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.08.29-20.10.00:884][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.08.29-20.10.00:937][410]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonExampleMapA4779E2F43EF27D0888B57B091C9CA52.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.29-20.10.01:152][410]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonExampleMap_BuiltDataC1F34DDE4ED2215056EC3E94066B92F0.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.29-20.10.01:169][410]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-20.10.01:169][410]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.29-20.10.01:169][410]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.29-20.10.02:105][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.21:874][330]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion'
+[2021.08.29-20.10.27:462][330]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/Enemigo0500F955482CD6D33BBBBDBEAC75576E.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Enemigo.uasset'
+[2021.08.29-20.10.27:491][330]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacterCF65FDEB44F08867EEE325BDD84DB674.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.08.29-20.10.27:523][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.29-20.10.27:588][330]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonExampleMap1BF265FB49A7BB613D8D90AA07E808CA.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.29-20.10.27:593][330]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.100
+[2021.08.29-20.10.27:701][330]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Saved/ThirdPersonExampleMap_BuiltData6F5016A6464A90805A879E9EEC3A3714.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.29-20.10.34:949][330]LogSlate: Window 'Enviar archivos' being destroyed
+[2021.08.29-20.10.35:064][331]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-20.10.35:064][331]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.29-20.10.35:064][331]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.29-20.10.35:064][331]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.29-20.10.35:064][331]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Enemigo.Enemigo
