@@ -1329,3 +1329,415 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.22-15.09.19:666][810]AssetCheck: New page: Asset Save: Menu_Nivel
 [2021.09.22-15.09.19:666][810]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Menu_Nivel.Menu_Nivel
 [2021.09.22-15.09.51:466][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:556][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:557][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:557][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:557][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:557][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:557][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:557][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:557][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:557][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:557][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.10.27:735][261]EditorErrors: Warning: No assets to check in!
+[2021.09.22-15.13.26:486][898]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.22-15.15.00:114][125]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.09.22-15.18.23:216][955]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2021.09.22-15.18.23:220][955]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2021.09.22-15.19.12:234][721]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.22-15.19.42:085][449]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2021.09.22-15.19.42:090][449]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2021.09.22-15.19.42:928][497]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.22-15.19.42:937][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.22-15.19.42:937][497]PIE: New page: Sesión PIE (reproducción en el editor): Menu_Nivel (22 sep. 2021 5:19:42)
+[2021.09.22-15.19.42:937][497]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.19.42:940][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002268s)
+[2021.09.22-15.19.42:943][497]LogAIModule: Creating AISystem for world Menu_Nivel
+[2021.09.22-15.19.42:944][497]LogPlayLevel: PIE: World Init took: (0.003940s)
+[2021.09.22-15.19.42:944][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu_Nivel.Menu_Nivel to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel (0.006548s)
+[2021.09.22-15.19.43:013][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.09.22-15.19.43:016][497]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.09.22-15.19.43:016][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.22-15.19.43:016][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.22-15.19.43:016][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.22-15.19.43:016][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.22-15.19.43:016][497]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.22-15.19.43:016][497]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.22-15.19.43:016][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.22-15.19.43:016][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.22-15.19.43:016][497]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.22-15.19.43:016][497]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.22-15.19.43:022][497]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.22-15.19.43:022][497]LogAudioMixer: Display: 1: FrontRight
+[2021.09.22-15.19.43:034][497]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.09.22-15.19.43:035][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.22-15.19.43:035][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.22-15.19.43:035][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.22-15.19.43:035][497]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.22-15.19.43:035][497]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.22-15.19.43:035][497]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.22-15.19.43:049][497]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.22-15.19.43:049][497]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.22-15.19.43:049][497]LogInit: FAudioDevice initialized.
+[2021.09.22-15.19.43:049][497]LogAudio: Display: Audio Device (ID: 7) registered with world 'Menu_Nivel'.
+[2021.09.22-15.19.43:056][497]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.22-15.19.43:057][497]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel up for play (max tick rate 60) at 2021.09.22-10.19.43
+[2021.09.22-15.19.43:058][497]LogWorld: Bringing up level for play took: 0.000331
+[2021.09.22-15.19.43:058][497]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.09.22-15.19.43:061][497]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.09.22-15.19.43:061][497]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.22-15.19.43:061][497]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.22-15.19.43:061][497]PIE: El servidor ha iniciado la sesión
+[2021.09.22-15.19.43:061][497]PIE: Play in editor total start time 0.125 seconds.
+[2021.09.22-15.19.43:958][551]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.22-15.19.43:958][551]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.22-15.19.43:959][551]LogNet: Browse: /Game/Maps/Level1
+[2021.09.22-15.19.43:959][551]LogLoad: LoadMap: /Game/Maps/Level1
+[2021.09.22-15.19.43:959][551]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.19.43:959][551]LogWorld: UWorld::CleanupWorld for Menu_Nivel, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.19.43:959][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.19.43:995][551]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.22-15.19.44:025][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.09.22-15.19.44:040][551]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2021.09.22-15.19.44:041][551]LogAIModule: Creating AISystem for world Level1
+[2021.09.22-15.19.44:041][551]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.22-15.19.44:043][551]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.09.22-10.19.44
+[2021.09.22-15.19.44:043][551]LogWorld: Bringing up level for play took: 0.001162
+[2021.09.22-15.19.44:045][551]LogLoad: Took 0.085821 seconds to LoadMap(/Game/Maps/Level1)
+[2021.09.22-15.20.31:145][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-15.20.31:145][351]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.09.22-15.20.31:146][351]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.20.31:146][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.20.31:154][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.22-15.20.31:157][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.20.31:171][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-15.20.31:173][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-15.20.31:174][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-15.20.31:195][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.09.22-15.20.31:211][352]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.09.22-15.20.31:228][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.09.22-15.20.45:320][ 47]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.22-15.21.24:578][586]LogEditorViewport: Clicking Background
+[2021.09.22-15.21.26:422][694]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.22-15.21.26:431][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.22-15.21.26:431][694]PIE: New page: Sesión PIE (reproducción en el editor): Menu_Nivel (22 sep. 2021 5:21:26)
+[2021.09.22-15.21.26:431][694]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.21.26:432][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001040s)
+[2021.09.22-15.21.26:433][694]LogAIModule: Creating AISystem for world Menu_Nivel
+[2021.09.22-15.21.26:433][694]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2021.09.22-15.21.26:433][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu_Nivel.Menu_Nivel to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel (0.002485s)
+[2021.09.22-15.21.26:451][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.09.22-15.21.26:455][694]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.09.22-15.21.26:455][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.22-15.21.26:455][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.22-15.21.26:455][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.22-15.21.26:455][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.22-15.21.26:455][694]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.22-15.21.26:455][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.22-15.21.26:455][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.22-15.21.26:455][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.22-15.21.26:455][694]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.22-15.21.26:455][694]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.22-15.21.26:460][694]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.22-15.21.26:460][694]LogAudioMixer: Display: 1: FrontRight
+[2021.09.22-15.21.26:471][694]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.09.22-15.21.26:472][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.22-15.21.26:472][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.22-15.21.26:472][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.22-15.21.26:472][694]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.22-15.21.26:472][694]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.22-15.21.26:472][694]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.22-15.21.26:487][694]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.22-15.21.26:487][694]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.22-15.21.26:487][694]LogInit: FAudioDevice initialized.
+[2021.09.22-15.21.26:487][694]LogAudio: Display: Audio Device (ID: 8) registered with world 'Menu_Nivel'.
+[2021.09.22-15.21.26:493][694]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.22-15.21.26:494][694]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel up for play (max tick rate 60) at 2021.09.22-10.21.26
+[2021.09.22-15.21.26:494][694]LogWorld: Bringing up level for play took: 0.000291
+[2021.09.22-15.21.26:495][694]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.09.22-15.21.26:498][694]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.09.22-15.21.26:498][694]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.22-15.21.26:498][694]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.22-15.21.26:498][694]PIE: El servidor ha iniciado la sesión
+[2021.09.22-15.21.26:498][694]PIE: Play in editor total start time 0.069 seconds.
+[2021.09.22-15.21.27:412][749]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.22-15.21.27:412][749]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.22-15.21.27:413][749]LogNet: Browse: /Game/Maps/Level1
+[2021.09.22-15.21.27:413][749]LogLoad: LoadMap: /Game/Maps/Level1
+[2021.09.22-15.21.27:413][749]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.21.27:413][749]LogWorld: UWorld::CleanupWorld for Menu_Nivel, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.27:413][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.27:426][749]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.22-15.21.27:428][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.09.22-15.21.27:437][749]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2021.09.22-15.21.27:438][749]LogAIModule: Creating AISystem for world Level1
+[2021.09.22-15.21.27:438][749]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.22-15.21.27:440][749]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.09.22-10.21.27
+[2021.09.22-15.21.27:440][749]LogWorld: Bringing up level for play took: 0.000923
+[2021.09.22-15.21.27:441][749]LogLoad: Took 0.029617 seconds to LoadMap(/Game/Maps/Level1)
+[2021.09.22-15.21.34:681][183]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.09.22-15.21.34:681][183]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.22-15.21.34:681][183]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.22-15.21.35:664][242]LogNet: Browse: /Game/ThirdPersonBP/Maps/Menu_Nivel
+[2021.09.22-15.21.35:664][242]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Menu_Nivel
+[2021.09.22-15.21.35:664][242]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.09.22-15.21.35:664][242]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:665][242]LogWorld: UWorld::CleanupWorld for nose, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:665][242]LogWorld: UWorld::CleanupWorld for OLS_Abajo, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:665][242]LogWorld: UWorld::CleanupWorld for OLS_AbajoIz, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:665][242]LogWorld: UWorld::CleanupWorld for OLS_AribbaDer, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:665][242]LogWorld: UWorld::CleanupWorld for OLS_Arriba, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:665][242]LogWorld: UWorld::CleanupWorld for OLS_ArribaDer, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:665][242]LogWorld: UWorld::CleanupWorld for OLS_ArribaIz, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:665][242]LogWorld: UWorld::CleanupWorld for OLS_ArribaIzquierda, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:665][242]LogWorld: UWorld::CleanupWorld for OLS_Derecha, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:665][242]LogWorld: UWorld::CleanupWorld for OLS_Derechar, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:665][242]LogWorld: UWorld::CleanupWorld for Room, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.35:665][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.35:683][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.22-15.21.35:690][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.09.22-15.21.35:691][242]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.21.35:692][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000892s)
+[2021.09.22-15.21.35:693][242]LogAIModule: Creating AISystem for world Menu_Nivel
+[2021.09.22-15.21.35:693][242]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2021.09.22-15.21.35:693][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu_Nivel.Menu_Nivel to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel (0.002103s)
+[2021.09.22-15.21.35:693][242]LogAudio: Display: Audio Device (ID: 8) registered with world 'Menu_Nivel'.
+[2021.09.22-15.21.35:693][242]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.22-15.21.35:694][242]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel up for play (max tick rate 60) at 2021.09.22-10.21.35
+[2021.09.22-15.21.35:695][242]LogWorld: Bringing up level for play took: 0.000246
+[2021.09.22-15.21.35:695][242]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.22-15.21.35:696][242]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.09.22-15.21.35:696][242]LogLoad: Took 0.032427 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel)
+[2021.09.22-15.21.36:131][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-15.21.36:132][268]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.21.36:153][268]LogWorld: UWorld::CleanupWorld for Menu_Nivel, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.21.36:154][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.36:164][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.22-15.21.36:166][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.21.36:181][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.22-15.21.36:181][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-15.21.36:182][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-15.21.36:197][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-15.21.36:199][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.09.22-15.21.36:240][270]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.09.22-15.22.11:284][733]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2021.09.22-15.22.11:293][733]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2021.09.22-15.22.13:309][849]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.22-15.22.13:316][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.22-15.22.13:316][849]PIE: New page: Sesión PIE (reproducción en el editor): Menu_Nivel (22 sep. 2021 5:22:13)
+[2021.09.22-15.22.13:353][849]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.22.13:354][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000897s)
+[2021.09.22-15.22.13:355][849]LogAIModule: Creating AISystem for world Menu_Nivel
+[2021.09.22-15.22.13:355][849]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2021.09.22-15.22.13:355][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu_Nivel.Menu_Nivel to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel (0.001997s)
+[2021.09.22-15.22.13:371][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.09.22-15.22.13:373][849]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.09.22-15.22.13:373][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.22-15.22.13:373][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.22-15.22.13:373][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.22-15.22.13:373][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.22-15.22.13:373][849]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.22-15.22.13:373][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.22-15.22.13:373][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.22-15.22.13:373][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.22-15.22.13:373][849]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.22-15.22.13:373][849]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.22-15.22.13:379][849]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.22-15.22.13:379][849]LogAudioMixer: Display: 1: FrontRight
+[2021.09.22-15.22.13:389][849]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.09.22-15.22.13:389][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.22-15.22.13:389][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.22-15.22.13:389][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.22-15.22.13:390][849]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.22-15.22.13:390][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.22-15.22.13:390][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.22-15.22.13:404][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.22-15.22.13:404][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.22-15.22.13:404][849]LogInit: FAudioDevice initialized.
+[2021.09.22-15.22.13:404][849]LogAudio: Display: Audio Device (ID: 9) registered with world 'Menu_Nivel'.
+[2021.09.22-15.22.13:408][849]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.22-15.22.13:409][849]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel up for play (max tick rate 60) at 2021.09.22-10.22.13
+[2021.09.22-15.22.13:410][849]LogWorld: Bringing up level for play took: 0.000301
+[2021.09.22-15.22.13:410][849]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.09.22-15.22.13:412][849]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.09.22-15.22.13:413][849]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.22-15.22.13:413][849]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.22-15.22.13:413][849]PIE: El servidor ha iniciado la sesión
+[2021.09.22-15.22.13:413][849]PIE: Play in editor total start time 0.1 seconds.
+[2021.09.22-15.22.15:024][945]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.22-15.22.15:024][945]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.22-15.22.15:025][945]LogNet: Browse: /Game/Maps/Level1
+[2021.09.22-15.22.15:025][945]LogLoad: LoadMap: /Game/Maps/Level1
+[2021.09.22-15.22.15:025][945]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.22.15:025][945]LogWorld: UWorld::CleanupWorld for Menu_Nivel, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.22.15:025][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.22.15:066][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.22-15.22.15:068][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.09.22-15.22.15:078][945]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2021.09.22-15.22.15:079][945]LogAIModule: Creating AISystem for world Level1
+[2021.09.22-15.22.15:079][945]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.22-15.22.15:080][945]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.09.22-10.22.15
+[2021.09.22-15.22.15:080][945]LogWorld: Bringing up level for play took: 0.000900
+[2021.09.22-15.22.15:082][945]LogLoad: Took 0.057220 seconds to LoadMap(/Game/Maps/Level1)
+[2021.09.22-15.22.29:704][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-15.22.29:704][819]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.09.22-15.22.29:705][819]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.22.29:705][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.22.29:712][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.22-15.22.29:718][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.22.29:736][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.22-15.22.29:736][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-15.22.29:738][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-15.22.29:754][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-15.22.29:761][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.09.22-15.22.29:776][820]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.09.22-15.22.29:794][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.09.22-15.22.38:890][234]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.22-15.23.43:896][985]LogRenderer: Reallocating scene render targets to support 1164x580 Format 10 NumSamples 1 (Frame:33049).
+[2021.09.22-15.23.48:049][160]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2021.09.22-15.23.48:056][160]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2021.09.22-15.23.48:874][206]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.22-15.23.48:880][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.22-15.23.48:880][206]PIE: New page: Sesión PIE (reproducción en el editor): Menu_Nivel (22 sep. 2021 5:23:48)
+[2021.09.22-15.23.48:880][206]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.23.48:881][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001113s)
+[2021.09.22-15.23.48:882][206]LogAIModule: Creating AISystem for world Menu_Nivel
+[2021.09.22-15.23.48:882][206]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2021.09.22-15.23.48:882][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu_Nivel.Menu_Nivel to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel (0.002245s)
+[2021.09.22-15.23.48:901][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.09.22-15.23.48:906][206]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.09.22-15.23.48:906][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.22-15.23.48:906][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.22-15.23.48:906][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.22-15.23.48:906][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.22-15.23.48:906][206]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.22-15.23.48:906][206]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.22-15.23.48:906][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.22-15.23.48:906][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.22-15.23.48:907][206]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.22-15.23.48:907][206]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.22-15.23.48:913][206]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.22-15.23.48:913][206]LogAudioMixer: Display: 1: FrontRight
+[2021.09.22-15.23.48:926][206]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.09.22-15.23.48:927][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.22-15.23.48:927][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.22-15.23.48:927][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.22-15.23.48:927][206]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.22-15.23.48:927][206]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.22-15.23.48:927][206]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.22-15.23.48:942][206]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.22-15.23.48:942][206]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.22-15.23.48:942][206]LogInit: FAudioDevice initialized.
+[2021.09.22-15.23.48:942][206]LogAudio: Display: Audio Device (ID: 10) registered with world 'Menu_Nivel'.
+[2021.09.22-15.23.48:952][206]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.22-15.23.48:953][206]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel up for play (max tick rate 60) at 2021.09.22-10.23.48
+[2021.09.22-15.23.48:954][206]LogWorld: Bringing up level for play took: 0.000458
+[2021.09.22-15.23.48:954][206]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.09.22-15.23.48:957][206]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.09.22-15.23.48:957][206]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.22-15.23.48:957][206]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.22-15.23.48:957][206]PIE: El servidor ha iniciado la sesión
+[2021.09.22-15.23.48:958][206]PIE: Play in editor total start time 0.078 seconds.
+[2021.09.22-15.23.53:298][461]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.22-15.23.53:298][461]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.22-15.23.53:298][461]LogNet: Browse: /Game/Maps/Level1
+[2021.09.22-15.23.53:298][461]LogLoad: LoadMap: /Game/Maps/Level1
+[2021.09.22-15.23.53:298][461]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.23.53:299][461]LogWorld: UWorld::CleanupWorld for Menu_Nivel, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.23.53:299][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.23.53:315][461]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.22-15.23.53:318][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.09.22-15.23.53:327][461]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2021.09.22-15.23.53:328][461]LogAIModule: Creating AISystem for world Level1
+[2021.09.22-15.23.53:328][461]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.22-15.23.53:329][461]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.09.22-10.23.53
+[2021.09.22-15.23.53:330][461]LogWorld: Bringing up level for play took: 0.000942
+[2021.09.22-15.23.53:331][461]LogLoad: Took 0.032849 seconds to LoadMap(/Game/Maps/Level1)
+[2021.09.22-15.25.02:405][596]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.09.22-15.25.02:405][596]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.22-15.25.02:405][596]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.22-15.25.04:921][747]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.22-15.25.04:921][747]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.22-15.25.06:734][855]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.09.22-15.25.06:734][855]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.22-15.25.06:734][855]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.22-15.25.07:666][911]LogNet: Browse: /Game/ThirdPersonBP/Maps/Menu_Nivel
+[2021.09.22-15.25.07:666][911]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Menu_Nivel
+[2021.09.22-15.25.07:666][911]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.09.22-15.25.07:666][911]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:667][911]LogWorld: UWorld::CleanupWorld for OLS_Abajo, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:667][911]LogWorld: UWorld::CleanupWorld for OLS_Arriba, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:667][911]LogWorld: UWorld::CleanupWorld for OLS_ArribaDer, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:667][911]LogWorld: UWorld::CleanupWorld for OLS_AbajoIz, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:667][911]LogWorld: UWorld::CleanupWorld for OLS_AribbaDer, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:667][911]LogWorld: UWorld::CleanupWorld for nose, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:667][911]LogWorld: UWorld::CleanupWorld for OLS_Derecha, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:667][911]LogWorld: UWorld::CleanupWorld for OLS_Derechar, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:667][911]LogWorld: UWorld::CleanupWorld for OLS_ArribaIzquierda, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:667][911]LogWorld: UWorld::CleanupWorld for OLS_ArribaIz, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:667][911]LogWorld: UWorld::CleanupWorld for Room, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.07:667][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.07:685][911]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.22-15.25.07:692][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.09.22-15.25.07:694][911]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.25.07:695][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000960s)
+[2021.09.22-15.25.07:696][911]LogAIModule: Creating AISystem for world Menu_Nivel
+[2021.09.22-15.25.07:696][911]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2021.09.22-15.25.07:696][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu_Nivel.Menu_Nivel to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel (0.002066s)
+[2021.09.22-15.25.07:696][911]LogAudio: Display: Audio Device (ID: 10) registered with world 'Menu_Nivel'.
+[2021.09.22-15.25.07:696][911]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.22-15.25.07:697][911]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel up for play (max tick rate 60) at 2021.09.22-10.25.07
+[2021.09.22-15.25.07:698][911]LogWorld: Bringing up level for play took: 0.000263
+[2021.09.22-15.25.07:698][911]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.22-15.25.07:700][911]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.09.22-15.25.07:700][911]LogLoad: Took 0.033909 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel)
+[2021.09.22-15.25.09:159][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-15.25.09:160][998]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.09.22-15.25.09:161][998]LogWorld: UWorld::CleanupWorld for Menu_Nivel, bSessionEnded=true, bCleanupResources=true
+[2021.09.22-15.25.09:161][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.09:170][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.22-15.25.09:176][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.22-15.25.09:191][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.22-15.25.09:191][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-15.25.09:192][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.22-15.25.09:207][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.22-15.25.09:209][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.09.22-15.25.09:267][  1]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.09.22-15.25.50:390][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.09.22-15.25.50:396][707]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Menu_Nivel02206CDD4EC00C014A6E9F9699E993B6.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Maps/Menu_Nivel.umap'
+[2021.09.22-15.25.50:439][707]AssetCheck: New page: Asset Save: Menu_Nivel
+[2021.09.22-15.25.50:439][707]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Menu_Nivel.Menu_Nivel
+[2021.09.22-15.25.55:417][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
