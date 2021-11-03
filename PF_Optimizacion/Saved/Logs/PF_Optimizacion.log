@@ -1256,3 +1256,376 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.03-15.32.11:315][996]LogContentValidation: Display: Validating StaticMesh /Game/Modelos/Casa_polySurface96.Casa_polySurface96
 [2021.11.03-15.32.11:316][996]LogContentValidation: Display: Validating StaticMesh /Game/Modelos/Casa_suelo2.Casa_suelo2
 [2021.11.03-15.32.11:316][996]LogContentValidation: Display: Validating StaticMesh /Game/Modelos/Casa_transform55.Casa_transform55
+[2021.11.03-15.39.24:869][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.11.03-15.39.40:848][200]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.11.03-15.42.11:598][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.11.03-15.42.11:745][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.324
+[2021.11.03-15.42.11:746][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.11.03-15.42.11:746][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.11.03-15.42.11:798][345]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacter_Auto3EE294E044E838C7F95218EA54A7164E8.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2021.11.03-15.42.11:857][345]LogFileHelpers: Auto-saving content packages took 0.111
+[2021.11.03-15.44.18:826][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.11.03-15.44.19:970][638]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.03-15.44.33:258][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere6)
+[2021.11.03-15.44.37:405][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mueblescasa_pCube158)
+[2021.11.03-15.44.38:625][913]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2021.11.03-15.44.41:416][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cocina3)
+[2021.11.03-15.44.45:406][416]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.03-15.49.33:481][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (abercito_pCube34)
+[2021.11.03-15.49.41:158][511]Cmd: TRANSACTION UNDO
+[2021.11.03-15.49.41:158][511]LogEditorTransaction: Undo Move Actors
+[2021.11.03-15.52.12:180][547]LogUObjectHash: Compacting FUObjectHashTables data took   8.08ms
+[2021.11.03-15.52.12:211][547]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.140
+[2021.11.03-15.52.19:057][ 52]Cmd: TRANSACTION UNDO
+[2021.11.03-15.52.19:057][ 52]LogEditorTransaction: Undo Move Actors
+[2021.11.03-15.56.03:857][525]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-15.56.03:867][525]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-15.56.20:661][728]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-15.56.20:670][728]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-15.56.32:246][558]LogSlate: Window 'Composición del mundo' being destroyed
+[2021.11.03-15.56.32:257][558]LogSlate: Window 'Composición del mundo' being destroyed
+[2021.11.03-15.57.15:382][541]LogSlate: Window 'Composición del mundo' being destroyed
+[2021.11.03-15.57.30:318][602]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-15.57.30:326][602]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-15.57.37:736][171]LogEditorViewport: Clicking on Actor (LMB): LandscapeStreamingProxy (LandscapeStreamingProxy)
+[2021.11.03-15.57.38:949][273]LogEditorViewport: Clicking on Actor (LMB): LevelStreamingVolume (LS_Room)
+[2021.11.03-15.58.32:841][429]LogSlate: Window 'Seleccionador de color' being destroyed
+[2021.11.03-15.58.37:419][700]LogSlate: Window 'Seleccionador de color' being destroyed
+[2021.11.03-15.58.39:328][822]Cmd: TRANSACTION UNDO
+[2021.11.03-15.58.39:328][822]LogEditorTransaction: Undo Edit Level Draw Color
+[2021.11.03-16.00.46:789][740]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.00.46:800][740]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.00.58:778][643]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacter9836F4BB49725D853E453DB4F134041B.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.03-16.00.58:793][643]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.03-16.00.58:793][643]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.03-16.01.02:636][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.11.03-16.01.02:857][897]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level1CBCE5F7746B599EDC250E6A8C4E62F75.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Level1.umap'
+[2021.11.03-16.01.03:084][897]LogFileHelpers: Saving map 'Level1' took 0.521
+[2021.11.03-16.01.03:206][897]AssetCheck: New page: Asset Save: Level1
+[2021.11.03-16.01.03:206][897]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.03-16.01.17:408][115]LogEditorViewport: Clicking on Actor (LMB): LevelStreamingVolume (LS_Room)
+[2021.11.03-16.01.18:333][194]LogEditorViewport: Clicking on Actor (LMB): LevelStreamingVolume (LS_Room)
+[2021.11.03-16.01.19:083][250]LogEditorViewport: Clicking on Actor (LMB): LevelStreamingVolume (LS_Room)
+[2021.11.03-16.01.19:665][295]LogEditorViewport: Clicking on Actor (LMB): LevelStreamingVolume (LS_Room)
+[2021.11.03-16.01.20:847][393]LogEditorViewport: Clicking on Actor (LMB): LevelStreamingVolume (LS_Room)
+[2021.11.03-16.01.47:660][337]Cmd: TRANSACTION UNDO
+[2021.11.03-16.01.47:660][337]LogEditorTransaction: Undo Editar Parent Package Name
+[2021.11.03-16.02.06:993][444]LogSlate: Window 'Composición del mundo' being destroyed
+[2021.11.03-16.02.45:615][656]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.02.45:618][656]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.03.27:335][751]LogSlate: Window 'Guardar nivel como' being destroyed
+[2021.11.03-16.03.27:433][751]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.03-16.03.27:433][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.03-16.03.27:516][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.11.03-16.03.27:786][765]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.04.49:644][848]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.04.49:649][848]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.04.53:880][ 71]LogRenderer: Reallocating scene render targets to support 1312x784 Format 10 NumSamples 1 (Frame:65610).
+[2021.11.03-16.04.54:021][ 72]LogRenderer: Reallocating scene render targets to support 1332x784 Format 10 NumSamples 1 (Frame:65612).
+[2021.11.03-16.05.22:382][737]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.05.22:386][737]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.05.24:502][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.11.03-16.05.25:012][848]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose5053ED1640E990C70DD98D9ECECE3356.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/nose.umap'
+[2021.11.03-16.05.25:426][848]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose_BuiltData9E7EFB8C446CB784A5C7908AD80FFEFD.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/nose_BuiltData.uasset'
+[2021.11.03-16.05.25:487][848]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.03-16.05.25:487][848]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/nose_BuiltData.nose_BuiltData
+[2021.11.03-16.05.25:488][848]LogContentValidation: Display: Validating World /Game/Maps/nose.nose
+[2021.11.03-16.05.26:763][914]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.03-16.05.26:827][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.03-16.05.26:828][914]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (3 nov. 2021 4:05:26)
+[2021.11.03-16.05.26:828][914]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.03-16.05.26:834][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006863s)
+[2021.11.03-16.05.26:836][914]LogAIModule: Creating AISystem for world Level1
+[2021.11.03-16.05.26:855][914]LogPlayLevel: PIE: World Init took: (0.020417s)
+[2021.11.03-16.05.26:855][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.027575s)
+[2021.11.03-16.05.26:875][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.11.03-16.05.26:875][914]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.11.03-16.05.26:876][914]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.03-16.05.26:876][914]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.03-16.05.26:876][914]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.03-16.05.26:876][914]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.03-16.05.26:876][914]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.03-16.05.26:876][914]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.03-16.05.26:876][914]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.03-16.05.26:876][914]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.03-16.05.26:876][914]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.03-16.05.26:876][914]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.03-16.05.26:901][914]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.03-16.05.26:901][914]LogAudioMixer: Display: 1: FrontRight
+[2021.11.03-16.05.26:912][914]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.11.03-16.05.26:912][914]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.03-16.05.26:912][914]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.03-16.05.26:912][914]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.03-16.05.26:914][914]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.03-16.05.26:914][914]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.03-16.05.26:914][914]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.03-16.05.26:927][914]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.03-16.05.26:927][914]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.03-16.05.26:927][914]LogInit: FAudioDevice initialized.
+[2021.11.03-16.05.26:927][914]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2021.11.03-16.05.26:976][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.03-16.05.26:976][914]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.03-16.05.26:978][914]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.03-10.05.26
+[2021.11.03-16.05.26:978][914]LogWorld: Bringing up level for play took: 0.000724
+[2021.11.03-16.05.26:978][914]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.11.03-16.05.27:087][914]PIE: El servidor ha iniciado la sesión
+[2021.11.03-16.05.27:088][914]PIE: Play in editor total start time 0.319 seconds.
+[2021.11.03-16.05.27:207][915]LogRenderer: Reallocating scene render targets to support 1332x788 Format 10 NumSamples 1 (Frame:1).
+[2021.11.03-16.05.27:208][915]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.073370 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2021.11.03-16.05.53:296][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.03-16.05.53:296][459]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.03-16.05.53:296][459]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.03-16.05.53:303][459]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.03-16.05.53:304][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.03-16.05.53:313][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.03-16.05.53:329][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.03-16.05.53:348][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.03-16.05.53:349][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.03-16.05.53:367][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.11.03-16.05.53:569][460]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.11.03-16.05.53:591][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.11.03-16.06.59:319][ 83]Cmd: DELETE
+[2021.11.03-16.06.59:358][ 83]Cmd: ACTOR DELETE
+[2021.11.03-16.06.59:915][ 83]LogEditorActor: Deleted Actor: LevelStreamingVolume
+[2021.11.03-16.06.59:953][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.11.03-16.07.00:041][ 83]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2021.11.03-16.12.02:323][229]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.03-16.13.51:885][826]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.03-16.13.51:893][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.03-16.13.51:893][826]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (3 nov. 2021 4:13:51)
+[2021.11.03-16.13.51:893][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.03-16.13.51:896][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002988s)
+[2021.11.03-16.13.51:898][826]LogAIModule: Creating AISystem for world Level1
+[2021.11.03-16.13.51:899][826]LogPlayLevel: PIE: World Init took: (0.002927s)
+[2021.11.03-16.13.51:899][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006158s)
+[2021.11.03-16.13.51:920][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.11.03-16.13.51:924][826]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.11.03-16.13.51:924][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.03-16.13.51:924][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.03-16.13.51:924][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.03-16.13.51:924][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.03-16.13.51:924][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.03-16.13.51:924][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.03-16.13.51:924][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.03-16.13.51:924][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.03-16.13.51:924][826]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.03-16.13.51:924][826]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.03-16.13.51:929][826]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.03-16.13.51:929][826]LogAudioMixer: Display: 1: FrontRight
+[2021.11.03-16.13.51:939][826]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.11.03-16.13.51:940][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.03-16.13.51:940][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.03-16.13.51:940][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.03-16.13.51:940][826]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.03-16.13.51:940][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.03-16.13.51:940][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.03-16.13.51:954][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.03-16.13.51:954][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.03-16.13.51:954][826]LogInit: FAudioDevice initialized.
+[2021.11.03-16.13.51:954][826]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2021.11.03-16.13.52:000][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.03-16.13.52:000][826]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.03-16.13.52:001][826]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.03-10.13.52
+[2021.11.03-16.13.52:002][826]LogWorld: Bringing up level for play took: 0.000427
+[2021.11.03-16.13.52:002][826]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.11.03-16.13.52:181][826]PIE: El servidor ha iniciado la sesión
+[2021.11.03-16.13.52:182][826]PIE: Play in editor total start time 0.291 seconds.
+[2021.11.03-16.13.52:405][827]LogRenderer: Reallocating scene render targets to support 1332x796 Format 10 NumSamples 1 (Frame:1).
+[2021.11.03-16.13.52:406][827]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.073370 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2021.11.03-16.14.09:429][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.03-16.14.09:429][840]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.03-16.14.09:430][840]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.03-16.14.09:439][840]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.03-16.14.09:439][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.03-16.14.09:447][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.03-16.14.09:458][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.03-16.14.09:479][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.03-16.14.09:479][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.03-16.14.09:480][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.03-16.14.09:498][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.11.03-16.14.09:515][841]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.11.03-16.14.09:535][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.11.03-16.16.14:403][ 54]LogSlate: Window 'Composición del mundo' being destroyed
+[2021.11.03-16.16.14:407][ 54]LogSlate: Window 'Composición del mundo' being destroyed
+[2021.11.03-16.16.15:041][ 90]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.03-16.16.15:049][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.03-16.16.15:050][ 90]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (3 nov. 2021 4:16:15)
+[2021.11.03-16.16.15:050][ 90]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.03-16.16.15:052][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002719s)
+[2021.11.03-16.16.15:054][ 90]LogAIModule: Creating AISystem for world Level1
+[2021.11.03-16.16.15:054][ 90]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2021.11.03-16.16.15:054][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004117s)
+[2021.11.03-16.16.15:076][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.11.03-16.16.15:119][ 90]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.11.03-16.16.15:119][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.03-16.16.15:119][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.03-16.16.15:119][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.03-16.16.15:119][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.03-16.16.15:119][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.03-16.16.15:119][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.03-16.16.15:119][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.03-16.16.15:119][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.03-16.16.15:120][ 90]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.03-16.16.15:120][ 90]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.03-16.16.15:129][ 90]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.03-16.16.15:129][ 90]LogAudioMixer: Display: 1: FrontRight
+[2021.11.03-16.16.15:148][ 90]LogAudioMixer: Display: Using Audio Device HDMI (NVIDIA High Definition Audio)
+[2021.11.03-16.16.15:149][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.03-16.16.15:149][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.03-16.16.15:149][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.03-16.16.15:149][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.03-16.16.15:149][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.03-16.16.15:149][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.03-16.16.15:199][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.03-16.16.15:199][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.03-16.16.15:200][ 90]LogInit: FAudioDevice initialized.
+[2021.11.03-16.16.15:200][ 90]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2021.11.03-16.16.15:294][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.03-16.16.15:295][ 90]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.03-16.16.15:298][ 90]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.03-10.16.15
+[2021.11.03-16.16.15:298][ 90]LogWorld: Bringing up level for play took: 0.001283
+[2021.11.03-16.16.15:303][ 90]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.11.03-16.16.15:386][ 90]PIE: El servidor ha iniciado la sesión
+[2021.11.03-16.16.15:387][ 90]PIE: Play in editor total start time 0.339 seconds.
+[2021.11.03-16.16.15:626][ 91]LogRenderer: Reallocating scene render targets to support 1332x800 Format 10 NumSamples 1 (Frame:1).
+[2021.11.03-16.16.15:628][ 91]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.073370 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2021.11.03-16.16.22:412][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.11.03-16.16.29:786][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.11.03-16.16.41:143][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.11.03-16.16.46:256][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.11.03-16.16.52:262][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.11.03-16.16.53:331][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.03-16.16.53:331][323]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.03-16.16.53:332][323]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.03-16.16.53:341][323]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.03-16.16.53:341][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.03-16.16.53:350][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.03-16.16.53:362][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.03-16.16.53:380][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.03-16.16.53:381][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.03-16.16.53:381][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.03-16.16.53:400][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.11.03-16.16.53:418][324]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.11.03-16.16.53:440][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.11.03-16.17.32:472][604]LogSlate: Window 'Composición del mundo' being destroyed
+[2021.11.03-16.17.32:477][604]LogSlate: Window 'Composición del mundo' being destroyed
+[2021.11.03-16.18.07:351][639]LogSlate: Window 'Composición del mundo' being destroyed
+[2021.11.03-16.18.07:363][639]LogSlate: Window 'Composición del mundo' being destroyed
+[2021.11.03-16.18.08:926][733]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.18.08:931][733]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.18.29:003][911]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.18.29:008][911]LogSlate: Window 'Detalles del nivel' being destroyed
+[2021.11.03-16.18.45:323][853]LogSlate: Window 'Composición del mundo' being destroyed
+[2021.11.03-16.18.59:639][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.11.03-16.19.00:251][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.11.03-16.19.00:262][534]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level198FC656C44DF3B79F393FE97B594B9DA.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Level1.umap'
+[2021.11.03-16.19.00:270][534]LogFileHelpers: Saving map 'Level1' took 0.038
+[2021.11.03-16.19.00:290][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.11.03-16.19.00:500][534]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_Abajo0A20E7E545C37AF24EF24D8B9EF8A6E8.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_Abajo.umap'
+[2021.11.03-16.19.00:502][534]LogFileHelpers: Saving map 'OLS_Abajo' took 0.232
+[2021.11.03-16.19.00:525][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.11.03-16.19.00:667][534]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_AbajoIzEC8985D840A303C681785D9374823C65.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_AbajoIz.umap'
+[2021.11.03-16.19.00:670][534]LogFileHelpers: Saving map 'OLS_AbajoIz' took 0.168
+[2021.11.03-16.19.00:864][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.11.03-16.19.00:946][534]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_AribbaDer2967E43744D75C5CC1FF17A13E3DF1C6.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_AribbaDer.umap'
+[2021.11.03-16.19.00:948][534]LogFileHelpers: Saving map 'OLS_AribbaDer' took 0.276
+[2021.11.03-16.19.00:989][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.11.03-16.19.01:280][534]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_Arriba9E45DD7349709BAC7FCD4A86BBF01099.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_Arriba.umap'
+[2021.11.03-16.19.01:321][534]LogFileHelpers: Saving map 'OLS_Arriba' took 0.373
+[2021.11.03-16.19.01:343][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.11.03-16.19.01:367][534]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_ArribaDerE9E50A0C486CCBD5ED478E8305ABABA1.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_ArribaDer.umap'
+[2021.11.03-16.19.01:369][534]LogFileHelpers: Saving map 'OLS_ArribaDer' took 0.046
+[2021.11.03-16.19.01:388][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.11.03-16.19.01:771][534]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_DerechaB630EAC947BB8EE9874715AE1A0CF71F.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_Derecha.umap'
+[2021.11.03-16.19.01:772][534]LogFileHelpers: Saving map 'OLS_Derecha' took 0.403
+[2021.11.03-16.19.01:799][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.11.03-16.19.01:865][534]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_ArribaIzquierda373F05114F0413B1726BA49D716F65A6.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_ArribaIzquierda.umap'
+[2021.11.03-16.19.01:867][534]LogFileHelpers: Saving map 'OLS_ArribaIzquierda' took 0.095
+[2021.11.03-16.19.01:987][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.11.03-16.19.02:216][534]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_DerecharE0782F384C3A7FB5AAC13699C6DEE08C.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_Derechar.umap'
+[2021.11.03-16.19.02:218][534]LogFileHelpers: Saving map 'OLS_Derechar' took 0.349
+[2021.11.03-16.19.02:238][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.11.03-16.19.02:480][534]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Room854F5AE241F1A2F18BCE8D9FB73426F6.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Room.umap'
+[2021.11.03-16.19.02:482][534]LogFileHelpers: Saving map 'Room' took 0.264
+[2021.11.03-16.19.02:526][534]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.03-16.19.02:526][534]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.03-16.19.02:526][534]LogContentValidation: Display: Validating World /Game/Maps/OLS_Abajo.OLS_Abajo
+[2021.11.03-16.19.02:526][534]LogContentValidation: Display: Validating World /Game/Maps/OLS_AbajoIz.OLS_AbajoIz
+[2021.11.03-16.19.02:526][534]LogContentValidation: Display: Validating World /Game/Maps/OLS_AribbaDer.OLS_AribbaDer
+[2021.11.03-16.19.02:526][534]LogContentValidation: Display: Validating World /Game/Maps/OLS_Arriba.OLS_Arriba
+[2021.11.03-16.19.02:526][534]LogContentValidation: Display: Validating World /Game/Maps/OLS_ArribaDer.OLS_ArribaDer
+[2021.11.03-16.19.02:526][534]LogContentValidation: Display: Validating World /Game/Maps/OLS_Derecha.OLS_Derecha
+[2021.11.03-16.19.02:526][534]LogContentValidation: Display: Validating World /Game/Maps/OLS_ArribaIzquierda.OLS_ArribaIzquierda
+[2021.11.03-16.19.02:527][534]LogContentValidation: Display: Validating World /Game/Maps/OLS_Derechar.OLS_Derechar
+[2021.11.03-16.19.02:527][534]LogContentValidation: Display: Validating World /Game/Maps/Room.Room
+[2021.11.03-16.19.08:698][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:698][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:698][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:698][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:698][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:698][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.08:699][867]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion'
+[2021.11.03-16.19.16:205][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.11.03-16.19.16:223][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level13BD98CC84D225970CC5738AA2920DFF3.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Level1.umap'
+[2021.11.03-16.19.16:231][867]LogFileHelpers: Saving map 'Level1' took 0.045
+[2021.11.03-16.19.16:248][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.03-16.19.16:283][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose3128D7F2488A0A1032327583B23C11EA.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/nose.umap'
+[2021.11.03-16.19.16:284][867]LogFileHelpers: Saving map 'nose' took 0.053
+[2021.11.03-16.19.16:291][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose_BuiltData7F839E4640AB47509081FDA9CFA21359.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/nose_BuiltData.uasset'
+[2021.11.03-16.19.16:309][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.03-16.19.16:328][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_AbajoC06E0EF14558988F24F87B9B8A1C56E7.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_Abajo.umap'
+[2021.11.03-16.19.16:329][867]LogFileHelpers: Saving map 'OLS_Abajo' took 0.037
+[2021.11.03-16.19.16:346][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.11.03-16.19.16:373][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_AbajoIzD3A5148249257C6817D24C8EBD7FD38A.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_AbajoIz.umap'
+[2021.11.03-16.19.16:374][867]LogFileHelpers: Saving map 'OLS_AbajoIz' took 0.045
+[2021.11.03-16.19.16:391][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.11.03-16.19.16:413][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_AribbaDer03893940432185789612D7AE15D40F47.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_AribbaDer.umap'
+[2021.11.03-16.19.16:414][867]LogFileHelpers: Saving map 'OLS_AribbaDer' took 0.040
+[2021.11.03-16.19.16:432][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.11.03-16.19.16:455][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_Arriba6C8AF3EE439D2CF4C13D258F829AE745.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_Arriba.umap'
+[2021.11.03-16.19.16:456][867]LogFileHelpers: Saving map 'OLS_Arriba' took 0.042
+[2021.11.03-16.19.16:500][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.11.03-16.19.16:503][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_ArribaDerAF1B8B1E490590D36DDD1E922818B199.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_ArribaDer.umap'
+[2021.11.03-16.19.16:504][867]LogFileHelpers: Saving map 'OLS_ArribaDer' took 0.048
+[2021.11.03-16.19.16:537][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.11.03-16.19.16:561][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_ArribaIzquierda8862D1E849D07A11CCC1C5A2BD071930.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_ArribaIzquierda.umap'
+[2021.11.03-16.19.16:563][867]LogFileHelpers: Saving map 'OLS_ArribaIzquierda' took 0.057
+[2021.11.03-16.19.16:581][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.11.03-16.19.16:608][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_DerechaFE043FE748F003362D4223AF2436112F.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_Derecha.umap'
+[2021.11.03-16.19.16:610][867]LogFileHelpers: Saving map 'OLS_Derecha' took 0.047
+[2021.11.03-16.19.16:640][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.11.03-16.19.16:670][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/OLS_Derechar385086194E4ADBC61C16078FE075C64F.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/OLS_Derechar.umap'
+[2021.11.03-16.19.16:672][867]LogFileHelpers: Saving map 'OLS_Derechar' took 0.061
+[2021.11.03-16.19.16:728][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.11.03-16.19.16:890][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Room3E493F02499A0E3DAF04929A88BA702A.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Room.umap'
+[2021.11.03-16.19.16:892][867]LogFileHelpers: Saving map 'Room' took 0.220
+[2021.11.03-16.19.16:928][867]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacter18F3692047F33DF6A657F6B3130AC035.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.03-16.19.28:467][867]LogSlate: Window 'Enviar archivos' being destroyed
+[2021.11.03-16.19.28:497][868]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.03-16.19.28:497][868]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.03-16.19.28:497][868]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.03-16.19.28:497][868]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/nose_BuiltData.nose_BuiltData
+[2021.11.03-16.19.28:497][868]LogContentValidation: Display: Validating World /Game/Maps/nose.nose
+[2021.11.03-16.19.28:497][868]LogContentValidation: Display: Validating World /Game/Maps/OLS_Abajo.OLS_Abajo
+[2021.11.03-16.19.28:497][868]LogContentValidation: Display: Validating World /Game/Maps/OLS_AbajoIz.OLS_AbajoIz
+[2021.11.03-16.19.28:497][868]LogContentValidation: Display: Validating World /Game/Maps/OLS_AribbaDer.OLS_AribbaDer
+[2021.11.03-16.19.28:497][868]LogContentValidation: Display: Validating World /Game/Maps/OLS_Arriba.OLS_Arriba
+[2021.11.03-16.19.28:497][868]LogContentValidation: Display: Validating World /Game/Maps/OLS_ArribaDer.OLS_ArribaDer
+[2021.11.03-16.19.28:497][868]LogContentValidation: Display: Validating World /Game/Maps/OLS_Derecha.OLS_Derecha
+[2021.11.03-16.19.28:498][868]LogContentValidation: Display: Validating World /Game/Maps/OLS_ArribaIzquierda.OLS_ArribaIzquierda
+[2021.11.03-16.19.28:498][868]LogContentValidation: Display: Validating World /Game/Maps/OLS_Derechar.OLS_Derechar
+[2021.11.03-16.19.28:498][868]LogContentValidation: Display: Validating World /Game/Maps/Room.Room
