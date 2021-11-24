@@ -2858,3 +2858,1219 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.24-05.55.17:947][861]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
 [2021.11.24-05.55.17:947][861]LogContentValidation: Display: Validating World /Game/Maps/nose.nose
 [2021.11.24-05.55.17:947][861]LogContentValidation: Display: Validating World /Game/Maps/Room.Room
+[2021.11.24-06.05.17:415][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.11.24-06.05.17:462][846]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level1_Auto3FC3A215448361E86CB84DFBEBC667F07.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/Level1_Auto3.umap'
+[2021.11.24-06.05.17:499][846]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose_Auto362BD1E20495167EF57B09B89EC8AF6CB.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/nose_Auto3.umap'
+[2021.11.24-06.05.17:501][846]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.115
+[2021.11.24-06.05.17:501][846]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.115
+[2021.11.24-06.08.38:029][996]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-06.08.38:038][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-06.08.38:039][996]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 18:08:38)
+[2021.11.24-06.08.38:039][996]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.08.38:043][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004070s)
+[2021.11.24-06.08.38:045][996]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-06.08.38:045][996]LogPlayLevel: PIE: World Init took: (0.001515s)
+[2021.11.24-06.08.38:045][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005798s)
+[2021.11.24-06.08.38:071][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.11.24-06.08.38:085][996]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.11.24-06.08.38:085][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-06.08.38:085][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-06.08.38:085][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-06.08.38:085][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-06.08.38:085][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-06.08.38:085][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-06.08.38:085][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-06.08.38:085][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-06.08.38:086][996]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-06.08.38:086][996]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-06.08.38:092][996]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-06.08.38:092][996]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-06.08.38:169][996]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-06.08.38:170][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-06.08.38:170][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-06.08.38:170][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-06.08.38:170][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-06.08.38:170][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-06.08.38:170][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-06.08.38:184][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-06.08.38:184][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-06.08.38:184][996]LogInit: FAudioDevice initialized.
+[2021.11.24-06.08.38:184][996]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level1'.
+[2021.11.24-06.08.38:211][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.08.38:211][996]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-06.08.38:212][996]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-00.08.38
+[2021.11.24-06.08.38:212][996]LogWorld: Bringing up level for play took: 0.000595
+[2021.11.24-06.08.38:212][996]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.11.24-06.08.38:261][996]PIE: El servidor ha iniciado la sesión
+[2021.11.24-06.08.38:261][996]PIE: Play in editor total start time 0.226 seconds.
+[2021.11.24-06.08.38:504][  3]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.38:911][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-06.08.38:912][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.08.39:005][ 33]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.39:507][ 63]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.40:012][ 93]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.40:516][123]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.41:068][156]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.43:023][273]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.43:075][276]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.43:523][303]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.43:573][306]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.44:025][333]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.44:075][336]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.46:025][453]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.46:075][456]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.46:525][483]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.46:575][486]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.47:025][513]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.47:075][516]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.49:081][633]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.49:580][663]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.50:080][693]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.50:587][723]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.51:088][753]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.51:088][753]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.51:587][783]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.08.51:587][783]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.52:087][813]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.08.59:744][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.08.59:744][269]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.08.59:745][269]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-06.08.59:752][269]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-06.08.59:752][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.08.59:760][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-06.08.59:775][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.08.59:799][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-06.08.59:800][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.08.59:801][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.08.59:823][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.11.24-06.08.59:852][270]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.11.24-06.08.59:883][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.11.24-06.13.08:336][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.11.24-06.13.08:539][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.11.24-06.13.08:551][412]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level12C4FFB2D4EF6F63F0F3F1B82E5F053FB.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Level1.umap'
+[2021.11.24-06.13.08:561][412]LogFileHelpers: Saving map 'Level1' took 0.045
+[2021.11.24-06.13.08:583][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.24-06.13.08:620][412]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose47D338AD4979BE0F1469FF90845E91FD.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/nose.umap'
+[2021.11.24-06.13.08:621][412]LogFileHelpers: Saving map 'nose' took 0.060
+[2021.11.24-06.13.08:702][412]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacterCF0695594E0DFFAD8F743CA161E95D37.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.24-06.13.08:839][412]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.24-06.13.08:839][412]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.24-06.13.08:839][412]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.24-06.13.08:840][412]LogContentValidation: Display: Validating World /Game/Maps/nose.nose
+[2021.11.24-06.13.15:824][803]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD
+[2021.11.24-06.14.51:029][195]LogEditorTransaction: Undo Editar Izquierda
+[2021.11.24-06.17.18:226][872]LogSlate: Took 0.012922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.24-06.22.00:605][752]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-06.22.01:201][752]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.11.24-06.22.05:488][987]BlueprintLog: New page: Compilar HUD
+[2021.11.24-06.22.05:713][987]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.11.24-06.22.59:951][198]BlueprintLog: New page: Compilar HUD
+[2021.11.24-06.22.59:998][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.11.24-06.23.02:887][356]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/HUDE6431FBC4443B09D82AC3DBCE79F2E4E.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Widgets/HUD.uasset'
+[2021.11.24-06.23.02:962][356]AssetCheck: New page: Asset Save: HUD
+[2021.11.24-06.23.02:962][356]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD
+[2021.11.24-06.23.04:846][456]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacter058817A7468CB4FDFF9433BD61BF3649.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.24-06.23.04:953][456]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.24-06.23.04:954][456]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.24-06.24.21:661][660]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.11.24-06.24.21:679][660]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level1_Auto4EB672C0B41A45C5F25240AAD5EBE699D.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/Level1_Auto4.umap'
+[2021.11.24-06.24.21:721][660]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose_Auto4BD2647D1402B2CE4A11C7596214B1443.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/nose_Auto4.umap'
+[2021.11.24-06.24.21:785][660]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Room_Auto4ECC4186D40039CDBA2CBB49F959035BF.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/Room_Auto4.umap'
+[2021.11.24-06.24.21:787][660]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.175
+[2021.11.24-06.24.21:787][660]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.175
+[2021.11.24-06.25.37:373][329]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/HUDD8805D2345CF9FC95BBC7EAF0C80A5E0.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Widgets/HUD.uasset'
+[2021.11.24-06.25.37:390][329]AssetCheck: New page: Asset Save: HUD
+[2021.11.24-06.25.37:390][329]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD
+[2021.11.24-06.26.00:097][679]BlueprintLog: New page: Compilar HUD
+[2021.11.24-06.26.00:184][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.11.24-06.26.57:062][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Casa_suelo3)
+[2021.11.24-06.27.16:848][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Casa_suelo3)
+[2021.11.24-06.27.26:568][778]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.11.24-06.27.39:894][778]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.11.24-06.28.11:614][173]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.11.24-06.28.11:738][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.11.24-06.28.11:779][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP
+[2021.11.24-06.31.35:064][238]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Casa_BP9A78806A475BC9B4E16DDE8AFE31DB30.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Casa_BP.uasset'
+[2021.11.24-06.31.35:457][238]AssetCheck: New page: Asset Save: Casa_BP
+[2021.11.24-06.31.35:457][238]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP
+[2021.11.24-06.31.36:030][272]BlueprintLog: New page: Compilar Casa_BP
+[2021.11.24-06.31.36:192][272]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2021.11.24-06.32.03:958][899]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Puerta_BP.Puerta_BP
+[2021.11.24-06.34.36:362][851]BlueprintLog: New page: Compilar Casa_BP
+[2021.11.24-06.34.36:456][851]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.11.24-06.34.39:365][  3]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Casa_BPBBFDEB264E548B80BF8315915E2C19DD.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Casa_BP.uasset'
+[2021.11.24-06.34.39:382][  3]AssetCheck: New page: Asset Save: Casa_BP
+[2021.11.24-06.34.39:382][  3]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP
+[2021.11.24-06.36.58:326][188]BlueprintLog: New page: Compilar Casa_BP
+[2021.11.24-06.36.58:425][188]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.11.24-06.36.59:303][230]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Casa_BPD64AC2FA42A3C85C2CA7A889B219B2C5.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Casa_BP.uasset'
+[2021.11.24-06.36.59:351][230]AssetCheck: New page: Asset Save: Casa_BP
+[2021.11.24-06.36.59:351][230]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP
+[2021.11.24-06.37.02:973][440]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-06.37.02:984][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-06.37.02:984][440]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 18:37:02)
+[2021.11.24-06.37.02:984][440]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.37.02:989][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004334s)
+[2021.11.24-06.37.02:990][440]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-06.37.02:990][440]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2021.11.24-06.37.02:990][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005725s)
+[2021.11.24-06.37.03:033][440]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.11.24-06.37.03:034][440]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.11.24-06.37.03:034][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-06.37.03:034][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-06.37.03:034][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-06.37.03:034][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-06.37.03:034][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-06.37.03:034][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-06.37.03:034][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-06.37.03:034][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-06.37.03:035][440]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-06.37.03:035][440]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-06.37.03:042][440]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-06.37.03:042][440]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-06.37.03:135][440]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-06.37.03:135][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-06.37.03:135][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-06.37.03:135][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-06.37.03:135][440]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-06.37.03:135][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-06.37.03:135][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-06.37.03:150][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-06.37.03:150][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-06.37.03:150][440]LogInit: FAudioDevice initialized.
+[2021.11.24-06.37.03:150][440]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level1'.
+[2021.11.24-06.37.03:204][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.37.03:204][440]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-06.37.03:205][440]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-00.37.03
+[2021.11.24-06.37.03:206][440]LogWorld: Bringing up level for play took: 0.000662
+[2021.11.24-06.37.03:206][440]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.11.24-06.37.03:306][440]PIE: El servidor ha iniciado la sesión
+[2021.11.24-06.37.03:308][440]PIE: Play in editor total start time 0.327 seconds.
+[2021.11.24-06.37.03:308][440]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:323][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:473][441]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:473][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:507][442]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:508][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:529][443]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:529][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:546][444]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:546][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:568][445]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:570][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:589][446]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:590][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:590][446]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.37.03:608][447]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:608][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:629][448]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:629][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:646][449]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:646][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:665][450]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:665][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:692][451]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:692][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:713][452]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:713][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:731][453]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:731][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:754][454]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:754][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:775][455]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Casa_BP_C /Game/Maps/UEDPIE_0_Room.Room:PersistentLevel.Casa_BP
+	Function /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP_C:ExecuteUbergraph_Casa_BP:001F
+[2021.11.24-06.37.03:775][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:795][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:812][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:830][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:854][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:873][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:891][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:911][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:928][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:944][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:963][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.03:987][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:004][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:022][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:045][469]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-06.37.04:045][469]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.37.04:046][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:062][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:078][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:097][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:098][472]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.37.04:115][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:136][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:154][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:172][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:190][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:208][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:228][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:244][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:263][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:284][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:307][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:329][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:345][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:364][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:388][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:407][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:428][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:447][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:468][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:489][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:508][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:530][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:547][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:571][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:590][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:591][497]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.37.04:609][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:630][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:655][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:675][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:694][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:713][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:731][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:752][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:775][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:796][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:822][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:840][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:859][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:876][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:895][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:914][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:938][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:960][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:978][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.04:997][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:017][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:039][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:056][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:074][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:094][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:110][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:111][523]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.37.05:130][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:149][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:170][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:190][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:209][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:228][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:245][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:265][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:288][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:309][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:330][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:346][535]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:368][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:390][537]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:413][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:431][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:453][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:472][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:492][542]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:510][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:530][544]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:551][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:571][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:589][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:605][548]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:623][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:624][549]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.37.05:624][549]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.37.05:644][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:661][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:681][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:703][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:722][554]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:741][555]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:760][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:777][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:795][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:813][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:835][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:854][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:873][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:891][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:910][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:927][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:945][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:967][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.05:989][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:007][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:025][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:045][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:063][572]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:082][573]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:104][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:121][575]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:140][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:140][576]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-06.37.06:140][576]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.37.06:159][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:177][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:193][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:211][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:230][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:252][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:271][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:290][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:311][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:329][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:352][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:371][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:390][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:412][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:431][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Casa_BP Function:  Execute Ubergraph Casa BP Graph:  EventGraph Node:  Reducir Tiempo
+[2021.11.24-06.37.06:478][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.37.06:478][591]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.37.06:479][591]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-06.37.06:485][591]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-06.37.06:485][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.37.06:492][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-06.37.06:517][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.37.06:555][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-06.37.06:556][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.37.06:557][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.37.06:580][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.11.24-06.37.06:798][592]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.11.24-06.37.06:844][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.11.24-06.37.10:529][773]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.11.24-06.37.10:538][773]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.11.24-06.37.38:827][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.24-06.37.38:878][508]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level1_Auto5728547BD430B790BACAE07BEC9CBC52B.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/Level1_Auto5.umap'
+[2021.11.24-06.37.38:974][508]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose_Auto50BFD5BD848D2DE41C123B4A654ED7B97.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/nose_Auto5.umap'
+[2021.11.24-06.37.39:117][508]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Room_Auto5E7835D2A47C1A1FCF32BB0AF925586CC.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/Room_Auto5.umap'
+[2021.11.24-06.37.39:119][508]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.331
+[2021.11.24-06.37.39:119][508]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.331
+[2021.11.24-06.47.33:918][761]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-06.47.34:183][761]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.11.24-06.48.59:588][786]BlueprintLog: New page: Compilar Casa_BP
+[2021.11.24-06.48.59:686][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.11.24-06.49.03:543][998]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Casa_BP123E449A4D7036D09FFE4AB5C2DD91CF.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Casa_BP.uasset'
+[2021.11.24-06.49.03:700][998]AssetCheck: New page: Asset Save: Casa_BP
+[2021.11.24-06.49.03:701][998]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP
+[2021.11.24-06.49.09:132][308]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-06.49.09:142][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-06.49.09:143][308]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 18:49:09)
+[2021.11.24-06.49.09:143][308]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.49.09:152][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008270s)
+[2021.11.24-06.49.09:153][308]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-06.49.09:154][308]LogPlayLevel: PIE: World Init took: (0.002014s)
+[2021.11.24-06.49.09:154][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.010610s)
+[2021.11.24-06.49.09:197][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.11.24-06.49.09:198][308]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.11.24-06.49.09:198][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-06.49.09:198][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-06.49.09:198][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-06.49.09:198][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-06.49.09:198][308]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-06.49.09:198][308]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-06.49.09:198][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-06.49.09:198][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-06.49.09:199][308]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-06.49.09:199][308]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-06.49.09:204][308]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-06.49.09:204][308]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-06.49.09:283][308]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-06.49.09:283][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-06.49.09:283][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-06.49.09:283][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-06.49.09:284][308]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-06.49.09:284][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-06.49.09:284][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-06.49.09:298][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-06.49.09:299][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-06.49.09:299][308]LogInit: FAudioDevice initialized.
+[2021.11.24-06.49.09:299][308]LogAudio: Display: Audio Device (ID: 26) registered with world 'Level1'.
+[2021.11.24-06.49.09:346][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.49.09:346][308]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-06.49.09:348][308]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-00.49.09
+[2021.11.24-06.49.09:348][308]LogWorld: Bringing up level for play took: 0.000861
+[2021.11.24-06.49.09:361][308]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.11.24-06.49.09:441][308]LogScript: Warning: Script Msg: Casa_BP Reducir Tiempo SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.11.24-06.49.09:446][308]PIE: El servidor ha iniciado la sesión
+[2021.11.24-06.49.09:447][308]PIE: Play in editor total start time 0.309 seconds.
+[2021.11.24-06.49.09:469][308]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:469][308]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:707][309]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:707][309]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:718][310]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.49.09:733][310]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:733][310]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:752][311]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:752][311]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:772][312]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:772][312]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:790][313]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:790][313]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:810][314]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:810][314]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:831][315]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:831][315]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:847][316]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:848][316]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:866][317]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:866][317]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:886][318]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:886][318]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:906][319]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:906][319]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:923][320]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:924][320]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:943][321]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:943][321]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:962][322]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:963][322]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:982][323]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_24.HUD_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD_C:GetText_0:00A8
+[2021.11.24-06.49.09:982][323]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.09:998][324]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:016][325]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:035][326]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:052][327]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:071][328]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:090][329]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:108][330]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:129][331]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:147][332]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:163][333]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:182][334]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:203][335]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:210][336]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.49.10:225][336]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:247][337]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:266][338]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:289][339]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:308][340]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:328][341]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:347][342]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:365][343]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:384][344]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:402][345]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:421][346]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:439][347]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:460][348]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:470][349]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-06.49.10:470][349]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.49.10:482][349]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:498][350]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:517][351]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:539][352]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:562][353]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:582][354]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:600][355]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:620][356]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:641][357]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:664][358]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:681][359]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:701][360]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:705][361]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.49.10:720][361]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:739][362]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:757][363]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:779][364]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:798][365]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:817][366]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:836][367]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:855][368]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:877][369]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:898][370]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:917][371]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:936][372]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:957][373]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:978][374]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.10:998][375]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:016][376]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:035][377]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:054][378]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:072][379]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:090][380]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:112][381]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:132][382]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:150][383]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:169][384]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:189][385]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:207][386]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:229][387]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:234][388]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.49.11:247][388]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:265][389]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:284][390]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:303][391]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:323][392]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:342][393]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:360][394]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:380][395]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:396][396]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:415][397]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:433][398]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:453][399]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:473][400]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:494][401]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:514][402]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:532][403]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:552][404]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:580][405]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:601][406]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:620][407]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:640][408]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:664][409]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:681][410]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:702][411]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:721][412]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:730][413]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.49.11:741][413]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:762][414]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:779][415]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:799][416]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:817][417]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:836][418]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:854][419]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:872][420]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:893][421]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:913][422]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:931][423]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:950][424]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:968][425]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.11:987][426]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:005][427]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:023][428]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:042][429]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:063][430]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:078][431]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:098][432]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:115][433]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:134][434]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:155][435]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:176][436]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:199][437]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:215][438]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:236][439]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:244][440]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.49.12:256][440]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:279][441]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:298][442]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:315][443]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:334][444]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:353][445]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:372][446]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:392][447]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:411][448]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:430][449]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:446][450]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:466][451]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:485][452]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:507][453]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:530][454]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:546][455]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:567][456]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:588][457]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:609][458]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:630][459]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:647][460]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:665][461]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:683][462]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:702][463]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:722][464]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:744][465]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:763][466]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:768][467]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.49.12:781][467]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:801][468]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:823][469]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:847][470]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:865][471]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:885][472]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:904][473]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:923][474]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:943][475]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:962][476]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.12:979][477]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:000][478]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:022][479]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:043][480]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:064][481]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:081][482]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:100][483]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:119][484]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:137][485]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:154][486]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:172][487]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:192][488]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:212][489]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:229][490]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:251][491]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:270][492]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:278][493]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.49.13:291][493]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:312][494]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:331][495]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:352][496]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:374][497]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:397][498]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:416][499]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:436][500]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:458][501]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:477][502]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:496][503]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:510][504]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:532][505]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:548][506]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:568][507]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:589][508]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:609][509]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:616][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2021.11.24-06.49.13:616][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.49.13:632][510]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:650][511]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:667][512]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:687][513]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:705][514]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:726][515]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:745][516]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:762][517]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:782][518]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:786][519]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.49.13:801][519]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:827][520]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:847][521]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:867][522]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:888][523]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:911][524]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:931][525]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:950][526]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:968][527]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.13:987][528]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.14:005][529]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.14:026][530]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.14:047][531]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.14:064][532]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.14:083][533]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.14:102][534]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.14:121][535]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.14:142][536]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.14:161][537]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.14:180][538]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  HUD Function:  Get Text 0 Graph:  GetText_0 Node:  Return Node
+[2021.11.24-06.49.14:221][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.49.14:222][539]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.49.14:223][539]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-06.49.14:267][539]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-06.49.14:268][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.49.14:279][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-06.49.14:301][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.49.14:340][539]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-06.49.14:340][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.49.14:341][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.49.14:362][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.11.24-06.49.14:544][540]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.11.24-06.49.14:592][540]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.11.24-06.50.44:176][731]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2021.11.24-06.50.44:205][731]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level1_Auto6C768EB7E4431654BBF2A1FA77A15BC11.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/Level1_Auto6.umap'
+[2021.11.24-06.50.44:248][731]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose_Auto61D239B954C2DA761B9C010AA70222882.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/nose_Auto6.umap'
+[2021.11.24-06.50.44:320][731]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Room_Auto6DE2FE4564113EFA2DF9C39A951C1DB15.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/Room_Auto6.umap'
+[2021.11.24-06.50.44:322][731]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.206
+[2021.11.24-06.50.44:322][731]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.206
+[2021.11.24-06.50.44:322][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.11.24-06.50.44:334][731]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.11.24-06.50.44:334][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.11.24-06.50.44:426][731]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacter_Auto63F53987C43BA1161FEC33A81C489E9D9.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset'
+[2021.11.24-06.50.44:427][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Widgets/HUD] ([1] browsable assets)...
+[2021.11.24-06.50.44:427][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Widgets/HUD]
+[2021.11.24-06.50.44:438][731]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/HUD_Auto608CCFA5F4C75DF405281FFA8394B5C82.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Widgets/HUD_Auto6.uasset'
+[2021.11.24-06.50.44:440][731]LogFileHelpers: Auto-saving content packages took 0.118
+[2021.11.24-06.51.43:667][272]LogEditorTransaction: Undo Mover nodo
+[2021.11.24-06.51.44:086][284]LogEditorTransaction: Undo Añadir nodo
+[2021.11.24-06.51.44:585][310]LogEditorTransaction: Undo Delete current selection
+[2021.11.24-06.51.45:223][347]LogEditorTransaction: Undo Delete current selection
+[2021.11.24-06.51.48:900][565]BlueprintLog: New page: Compilar HUD
+[2021.11.24-06.51.48:927][565]LogBlueprint: Warning: [AssetLog] C:\Users\2RJ25LA_RS5\Documents\Semestres FCFM\7. Septimo Semestre\Optimizacion\Optimizacion\PF_Optimizacion\Content\ThirdPersonBP\Blueprints\Widgets\HUD.uasset: [Compiler] Could not find a variable named "Tiempo" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Obtener Tiempo
+[2021.11.24-06.51.48:931][565]LogBlueprint: Error: [AssetLog] C:\Users\2RJ25LA_RS5\Documents\Semestres FCFM\7. Septimo Semestre\Optimizacion\Optimizacion\PF_Optimizacion\Content\ThirdPersonBP\Blueprints\Widgets\HUD.uasset: [Compiler] La propiedad asociada con  Tiempo  no se ha encontrado
+[2021.11.24-06.51.48:979][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.11.24-06.54.24:307][587]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-06.54.24:516][587]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.11.24-06.55.14:560][539]BlueprintLog: New page: Compilar Casa_BP
+[2021.11.24-06.55.14:658][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.11.24-06.55.16:702][651]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Casa_BP98BAC51B4E6A48D7D95D83976F14AAE6.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Casa_BP.uasset'
+[2021.11.24-06.55.16:752][651]AssetCheck: New page: Asset Save: Casa_BP
+[2021.11.24-06.55.16:752][651]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP
+[2021.11.24-06.55.22:954][ 20]BlueprintLog: New page: Compilar Casa_BP
+[2021.11.24-06.55.23:044][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.11.24-06.55.26:111][188]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Casa_BP0B0340F144FBE643BE3D428E5A38F688.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Casa_BP.uasset'
+[2021.11.24-06.55.26:125][188]AssetCheck: New page: Asset Save: Casa_BP
+[2021.11.24-06.55.26:125][188]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP
+[2021.11.24-06.55.29:941][407]BlueprintLog: New page: Compilar HUD
+[2021.11.24-06.55.29:961][407]LogBlueprint: Warning: [AssetLog] C:\Users\2RJ25LA_RS5\Documents\Semestres FCFM\7. Septimo Semestre\Optimizacion\Optimizacion\PF_Optimizacion\Content\ThirdPersonBP\Blueprints\Widgets\HUD.uasset: [Compiler] Could not find a variable named "Tiempo" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Obtener Tiempo
+[2021.11.24-06.55.29:962][407]LogBlueprint: Error: [AssetLog] C:\Users\2RJ25LA_RS5\Documents\Semestres FCFM\7. Septimo Semestre\Optimizacion\Optimizacion\PF_Optimizacion\Content\ThirdPersonBP\Blueprints\Widgets\HUD.uasset: [Compiler] La propiedad asociada con  Tiempo  no se ha encontrado
+[2021.11.24-06.55.30:020][407]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.11.24-06.55.56:398][968]BlueprintLog: New page: Compilar HUD
+[2021.11.24-06.55.56:449][968]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.11.24-06.56.01:226][241]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.11.24-06.56.01:522][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.11.24-06.56.01:539][241]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level1D7743CBD4504F8D7E6967E8578147427.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Level1.umap'
+[2021.11.24-06.56.01:571][241]LogFileHelpers: Saving map 'Level1' took 0.089
+[2021.11.24-06.56.01:612][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.11.24-06.56.01:677][241]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose8ACB172A49B369FC196E268740BF1A6F.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/nose.umap'
+[2021.11.24-06.56.01:679][241]LogFileHelpers: Saving map 'nose' took 0.107
+[2021.11.24-06.56.01:715][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.11.24-06.56.01:776][241]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/RoomCF8D34FF4DB046D9CF85E0B01EA33C52.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Room.umap'
+[2021.11.24-06.56.01:778][241]LogFileHelpers: Saving map 'Room' took 0.098
+[2021.11.24-06.56.01:852][241]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacter3C9AC987403784BF40E121BD11B9D369.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.24-06.56.01:866][241]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/HUD50EEACCA4822CC526251619176F14A82.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Widgets/HUD.uasset'
+[2021.11.24-06.56.01:967][241]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.24-06.56.01:967][241]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.24-06.56.01:967][241]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD
+[2021.11.24-06.56.01:968][241]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.24-06.56.01:968][241]LogContentValidation: Display: Validating World /Game/Maps/nose.nose
+[2021.11.24-06.56.01:968][241]LogContentValidation: Display: Validating World /Game/Maps/Room.Room
+[2021.11.24-06.56.06:493][478]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-06.56.06:502][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-06.56.06:502][478]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 18:56:06)
+[2021.11.24-06.56.06:502][478]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.56.06:506][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004426s)
+[2021.11.24-06.56.06:508][478]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-06.56.06:509][478]LogPlayLevel: PIE: World Init took: (0.001862s)
+[2021.11.24-06.56.06:509][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006586s)
+[2021.11.24-06.56.06:551][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.11.24-06.56.06:586][478]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.11.24-06.56.06:586][478]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-06.56.06:586][478]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-06.56.06:586][478]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-06.56.06:586][478]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-06.56.06:586][478]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-06.56.06:586][478]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-06.56.06:586][478]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-06.56.06:586][478]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-06.56.06:586][478]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-06.56.06:586][478]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-06.56.06:591][478]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-06.56.06:591][478]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-06.56.06:670][478]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-06.56.06:670][478]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-06.56.06:670][478]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-06.56.06:670][478]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-06.56.06:670][478]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-06.56.06:670][478]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-06.56.06:670][478]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-06.56.06:756][478]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-06.56.06:756][478]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-06.56.06:757][478]LogInit: FAudioDevice initialized.
+[2021.11.24-06.56.06:757][478]LogAudio: Display: Audio Device (ID: 27) registered with world 'Level1'.
+[2021.11.24-06.56.06:793][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.56.06:793][478]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-06.56.06:794][478]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-00.56.06
+[2021.11.24-06.56.06:795][478]LogWorld: Bringing up level for play took: 0.000713
+[2021.11.24-06.56.06:795][478]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.11.24-06.56.06:881][478]LogScript: Warning: Script Msg: Casa_BP Reducir Tiempo SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.11.24-06.56.06:883][478]PIE: El servidor ha iniciado la sesión
+[2021.11.24-06.56.06:884][478]PIE: Play in editor total start time 0.385 seconds.
+[2021.11.24-06.56.07:131][484]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.56.07:667][508]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.56.07:902][519]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-06.56.07:902][519]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.56.08:169][532]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.56.08:681][558]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.56.09:199][583]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.56.09:705][609]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.56.10:055][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.56.10:055][625]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.56.10:057][625]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-06.56.10:073][625]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-06.56.10:073][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.56.10:082][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-06.56.10:102][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.56.10:141][625]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-06.56.10:141][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.56.10:142][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.56.10:187][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.11.24-06.56.10:239][626]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.11.24-06.56.10:281][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.11.24-06.56.17:620][  9]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.11.24-06.56.17:626][  9]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.11.24-06.56.20:385][162]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-06.56.20:393][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-06.56.20:393][162]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 18:56:20)
+[2021.11.24-06.56.20:393][162]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.56.20:397][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003759s)
+[2021.11.24-06.56.20:399][162]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-06.56.20:399][162]LogPlayLevel: PIE: World Init took: (0.002624s)
+[2021.11.24-06.56.20:400][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006624s)
+[2021.11.24-06.56.20:440][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.11.24-06.56.20:443][162]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.11.24-06.56.20:444][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-06.56.20:444][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-06.56.20:444][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-06.56.20:444][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-06.56.20:444][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-06.56.20:444][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-06.56.20:444][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-06.56.20:444][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-06.56.20:444][162]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-06.56.20:444][162]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-06.56.20:450][162]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-06.56.20:450][162]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-06.56.20:527][162]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-06.56.20:527][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-06.56.20:527][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-06.56.20:527][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-06.56.20:528][162]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-06.56.20:528][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-06.56.20:528][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-06.56.20:542][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-06.56.20:542][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-06.56.20:542][162]LogInit: FAudioDevice initialized.
+[2021.11.24-06.56.20:542][162]LogAudio: Display: Audio Device (ID: 28) registered with world 'Level1'.
+[2021.11.24-06.56.20:602][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.56.20:602][162]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-06.56.20:603][162]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-00.56.20
+[2021.11.24-06.56.20:603][162]LogWorld: Bringing up level for play took: 0.000592
+[2021.11.24-06.56.20:603][162]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.11.24-06.56.20:653][162]LogScript: Warning: Script Msg: Casa_BP Reducir Tiempo SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.11.24-06.56.20:655][162]PIE: El servidor ha iniciado la sesión
+[2021.11.24-06.56.20:656][162]PIE: Play in editor total start time 0.264 seconds.
+[2021.11.24-06.56.20:914][168]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.56.21:412][193]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-06.56.21:412][193]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.56.21:412][193]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.56.21:922][219]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.56.22:441][246]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.56.22:890][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.56.22:890][268]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.56.22:891][268]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-06.56.22:898][268]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-06.56.22:899][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.56.22:906][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-06.56.22:935][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.56.22:975][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.56.22:976][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.56.22:996][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.11.24-06.56.23:045][269]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.11.24-06.56.23:086][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.11.24-06.56.24:143][326]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.11.24-06.56.53:066][995]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-06.56.53:188][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.11.24-06.57.08:042][863]BlueprintLog: New page: Compilar Casa_BP
+[2021.11.24-06.57.08:113][863]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.11.24-06.57.12:055][ 84]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Casa_BP0D28711A46DECDA2792245B380B12DC7.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Casa_BP.uasset'
+[2021.11.24-06.57.12:090][ 84]AssetCheck: New page: Asset Save: Casa_BP
+[2021.11.24-06.57.12:090][ 84]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP
+[2021.11.24-06.57.14:088][200]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-06.57.14:100][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-06.57.14:100][200]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 18:57:14)
+[2021.11.24-06.57.14:101][200]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.57.14:104][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003045s)
+[2021.11.24-06.57.14:105][200]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-06.57.14:105][200]LogPlayLevel: PIE: World Init took: (0.001222s)
+[2021.11.24-06.57.14:105][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004392s)
+[2021.11.24-06.57.14:149][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.11.24-06.57.14:150][200]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.11.24-06.57.14:150][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-06.57.14:150][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-06.57.14:150][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-06.57.14:151][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-06.57.14:151][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-06.57.14:151][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-06.57.14:151][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-06.57.14:151][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-06.57.14:151][200]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-06.57.14:151][200]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-06.57.14:156][200]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-06.57.14:156][200]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-06.57.14:234][200]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-06.57.14:234][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-06.57.14:234][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-06.57.14:234][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-06.57.14:271][200]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-06.57.14:271][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-06.57.14:271][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-06.57.14:272][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-06.57.14:272][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-06.57.14:272][200]LogInit: FAudioDevice initialized.
+[2021.11.24-06.57.14:272][200]LogAudio: Display: Audio Device (ID: 29) registered with world 'Level1'.
+[2021.11.24-06.57.14:319][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.57.14:319][200]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-06.57.14:321][200]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-00.57.14
+[2021.11.24-06.57.14:321][200]LogWorld: Bringing up level for play took: 0.000800
+[2021.11.24-06.57.14:321][200]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.11.24-06.57.14:394][200]LogScript: Warning: Script Msg: Casa_BP Reducir Tiempo SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.11.24-06.57.14:396][200]PIE: El servidor ha iniciado la sesión
+[2021.11.24-06.57.14:398][200]PIE: Play in editor total start time 0.301 seconds.
+[2021.11.24-06.57.14:687][208]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.15:218][235]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.15:617][254]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-06.57.15:617][254]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.57.15:724][260]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.16:225][283]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.16:726][309]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.17:241][335]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.17:748][362]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.18:255][389]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.18:769][416]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.19:273][442]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.19:789][469]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.20:306][496]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.20:807][523]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.21:307][550]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.21:816][577]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.22:331][605]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.22:833][633]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.23:338][660]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.23:845][687]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.24:352][714]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.24:863][741]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.25:366][767]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.25:867][794]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.26:379][821]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.26:878][848]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.27:385][875]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.27:897][902]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.28:400][929]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.28:900][956]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.29:416][983]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.29:450][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.57.29:450][983]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.57.29:451][983]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-06.57.29:465][983]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-06.57.29:466][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.57.29:475][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-06.57.29:490][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.57.29:600][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-06.57.29:600][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.57.29:601][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.57.29:622][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.11.24-06.57.29:691][984]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.11.24-06.57.29:736][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.11.24-06.57.37:452][438]LogEditorTransaction: Undo Mover nodo
+[2021.11.24-06.57.39:638][547]BlueprintLog: New page: Compilar Casa_BP
+[2021.11.24-06.57.39:710][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.11.24-06.57.51:010][209]BlueprintLog: New page: Compilar Casa_BP
+[2021.11.24-06.57.51:072][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.11.24-06.57.52:942][317]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-06.57.52:954][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-06.57.52:954][317]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 18:57:52)
+[2021.11.24-06.57.52:954][317]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.57.52:959][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004696s)
+[2021.11.24-06.57.52:960][317]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-06.57.52:961][317]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2021.11.24-06.57.52:961][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006284s)
+[2021.11.24-06.57.53:004][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.11.24-06.57.53:005][317]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.11.24-06.57.53:005][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-06.57.53:005][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-06.57.53:005][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-06.57.53:005][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-06.57.53:005][317]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-06.57.53:005][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-06.57.53:005][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-06.57.53:005][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-06.57.53:006][317]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-06.57.53:006][317]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-06.57.53:012][317]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-06.57.53:012][317]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-06.57.53:116][317]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-06.57.53:116][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-06.57.53:116][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-06.57.53:116][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-06.57.53:117][317]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-06.57.53:117][317]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-06.57.53:117][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-06.57.53:131][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-06.57.53:131][317]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-06.57.53:131][317]LogInit: FAudioDevice initialized.
+[2021.11.24-06.57.53:131][317]LogAudio: Display: Audio Device (ID: 30) registered with world 'Level1'.
+[2021.11.24-06.57.53:177][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.57.53:178][317]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-06.57.53:179][317]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-00.57.53
+[2021.11.24-06.57.53:180][317]LogWorld: Bringing up level for play took: 0.000858
+[2021.11.24-06.57.53:180][317]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.11.24-06.57.53:245][317]PIE: El servidor ha iniciado la sesión
+[2021.11.24-06.57.53:246][317]PIE: Play in editor total start time 0.294 seconds.
+[2021.11.24-06.57.53:491][322]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.53:965][346]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-06.57.53:965][346]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.57.54:001][348]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.54:516][374]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.55:035][401]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.55:536][426]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.56:053][453]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.56:530][477]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2021.11.24-06.57.56:530][477]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.57.56:565][479]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.56:995][501]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 7
+[2021.11.24-06.57.56:995][501]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.57.57:092][506]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.57:585][531]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.57.57:756][540]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2021.11.24-06.57.57:757][540]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.57.58:530][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.57.58:530][577]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.57.58:531][577]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-06.57.58:541][577]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-06.57.58:541][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.57.58:549][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-06.57.58:564][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.57.58:607][577]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-06.57.58:607][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.57.58:607][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.57.58:630][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.11.24-06.57.58:659][578]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.11.24-06.57.58:705][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.11.24-06.58.03:555][856]BlueprintLog: New page: Compilar Casa_BP
+[2021.11.24-06.58.03:614][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.11.24-06.58.06:039][980]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Casa_BP3D126F5D46F2450DC3FA33ABDFF9CC00.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Casa_BP.uasset'
+[2021.11.24-06.58.06:071][980]AssetCheck: New page: Asset Save: Casa_BP
+[2021.11.24-06.58.06:071][980]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP
+[2021.11.24-06.58.08:654][128]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-06.58.08:671][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-06.58.08:672][128]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 18:58:08)
+[2021.11.24-06.58.08:672][128]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.58.08:677][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004604s)
+[2021.11.24-06.58.08:677][128]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-06.58.08:677][128]LogPlayLevel: PIE: World Init took: (0.001708s)
+[2021.11.24-06.58.08:677][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006509s)
+[2021.11.24-06.58.08:723][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.11.24-06.58.08:724][128]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.11.24-06.58.08:724][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-06.58.08:724][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-06.58.08:724][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-06.58.08:724][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-06.58.08:724][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-06.58.08:724][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-06.58.08:724][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-06.58.08:724][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-06.58.08:724][128]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-06.58.08:724][128]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-06.58.08:730][128]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-06.58.08:730][128]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-06.58.08:809][128]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-06.58.08:809][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-06.58.08:809][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-06.58.08:809][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-06.58.08:809][128]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-06.58.08:809][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-06.58.08:809][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-06.58.08:823][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-06.58.08:823][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-06.58.08:823][128]LogInit: FAudioDevice initialized.
+[2021.11.24-06.58.08:823][128]LogAudio: Display: Audio Device (ID: 31) registered with world 'Level1'.
+[2021.11.24-06.58.08:869][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.58.08:870][128]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-06.58.08:871][128]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-00.58.08
+[2021.11.24-06.58.08:871][128]LogWorld: Bringing up level for play took: 0.000767
+[2021.11.24-06.58.08:872][128]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.11.24-06.58.08:917][128]PIE: El servidor ha iniciado la sesión
+[2021.11.24-06.58.08:918][128]PIE: Play in editor total start time 0.251 seconds.
+[2021.11.24-06.58.09:261][138]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.58.09:685][159]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-06.58.09:685][159]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-06.58.09:781][164]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.58.10:301][191]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.58.10:802][216]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.58.11:306][242]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.58.11:811][268]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.58.12:315][294]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.58.14:011][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.11.24-06.58.18:996][620]LogUObjectHash: Compacting FUObjectHashTables data took  73.00ms
+[2021.11.24-06.58.24:228][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.11.24-06.58.24:563][902]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-06.58.25:040][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-06.58.25:040][924]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-06.58.25:041][924]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-06.58.25:064][924]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-06.58.25:064][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.58.25:072][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-06.58.25:085][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-06.58.25:123][924]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-06.58.25:123][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.58.25:124][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-06.58.25:145][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.11.24-06.58.25:167][925]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.11.24-06.58.25:245][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.11.24-06.59.25:742][555]LogEditorViewport: Clicking on Actor (LMB): Raton_BP_C (Raton_BP)
+[2021.11.24-06.59.42:264][375]Cmd: MODE ROTGRID=0
+[2021.11.24-07.00.03:375][484]LogEditorViewport: Clicking on Actor (LMB): Raton_BP_C (Raton_BP2)
+[2021.11.24-07.01.13:744][398]Cmd: EDIT COPY
+[2021.11.24-07.01.14:284][418]Cmd: EDIT PASTE
+[2021.11.24-07.01.55:225][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.11.24-07.01.55:605][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.11.24-07.01.55:617][660]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level14F9688674BE5B9BEB18E629DB78F35B8.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Level1.umap'
+[2021.11.24-07.01.55:627][660]LogFileHelpers: Saving map 'Level1' took 0.061
+[2021.11.24-07.01.55:665][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.11.24-07.01.55:701][660]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose82561E5F4F5CB2A348101F92923DF991.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/nose.umap'
+[2021.11.24-07.01.55:702][660]LogFileHelpers: Saving map 'nose' took 0.075
+[2021.11.24-07.01.55:735][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.11.24-07.01.55:794][660]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Room9C7AB65045215898E61B3B9E1308E977.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Room.umap'
+[2021.11.24-07.01.55:795][660]LogFileHelpers: Saving map 'Room' took 0.093
+[2021.11.24-07.01.55:899][660]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacterADDF7FA544A823FEBD86929FD2389428.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.24-07.01.55:948][660]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.24-07.01.55:948][660]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.24-07.01.55:948][660]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.24-07.01.55:948][660]LogContentValidation: Display: Validating World /Game/Maps/nose.nose
+[2021.11.24-07.01.55:948][660]LogContentValidation: Display: Validating World /Game/Maps/Room.Room
