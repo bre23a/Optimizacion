@@ -1748,3 +1748,692 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.24-08.42.33:329][116]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.24-08.42.33:329][116]LogContentValidation: Display: Validating World /Game/Maps/nose.nose
 [2021.11.24-08.42.33:329][116]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.24-08.50.05:249][726]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (a2)
+[2021.11.24-08.51.42:068][409]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacterF5BC93E149FB829436FE01996996A9A1.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.24-08.51.42:117][409]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.24-08.51.42:117][409]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.24-08.52.51:566][378]LogSlate: Window 'Escoger clase padre' being destroyed
+[2021.11.24-08.53.12:696][519]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.11.24-08.53.12:710][519]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.11.24-08.53.33:508][733]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Terminar
+[2021.11.24-08.53.33:727][733]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.11.24-08.53.37:403][944]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Terminar.Terminar
+[2021.11.24-08.53.39:219][945]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.11.24-08.53.39:232][945]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level1_Auto2840ED6B7476747204F6443A2A9E7DB91.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
+[2021.11.24-08.53.39:268][945]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose_Auto20F948C9A435300102F9B3795CC83B18A.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/nose_Auto2.umap'
+[2021.11.24-08.53.39:270][945]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.164
+[2021.11.24-08.53.39:270][945]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.164
+[2021.11.24-08.55.36:563][ 34]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/TerminarD10D939246EC4ECFC055C5AE1F03B32B.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Widgets/Terminar.uasset'
+[2021.11.24-08.55.36:894][ 34]AssetCheck: New page: Asset Save: Terminar
+[2021.11.24-08.55.36:894][ 34]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Terminar.Terminar
+[2021.11.24-08.55.37:635][ 70]BlueprintLog: New page: Compilar Terminar
+[2021.11.24-08.55.37:794][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2021.11.24-08.55.47:610][562]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/TerminarDF21D8B843CAC122F93B098F8769EF55.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Widgets/Terminar.uasset'
+[2021.11.24-08.55.47:644][562]AssetCheck: New page: Asset Save: Terminar
+[2021.11.24-08.55.47:644][562]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Terminar.Terminar
+[2021.11.24-08.56.21:375][338]LogSlate: Window 'Terminar' being destroyed
+[2021.11.24-09.02.22:968][996]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.24-09.02.51:264][569]LogContentBrowser: Attempting asset rename: Terminar -> Perdiste
+[2021.11.24-09.02.52:211][569]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Widgets/Perdiste.SKEL_Perdiste_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/Terminar.PackageMetaData'
+[2021.11.24-09.02.52:211][569]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Widgets/Perdiste.Perdiste_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/Terminar.PackageMetaData'
+[2021.11.24-09.02.52:211][569]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Widgets/Perdiste.Perdiste:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/Terminar.PackageMetaData'
+[2021.11.24-09.02.52:211][569]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Widgets/Perdiste.Perdiste:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/Terminar.PackageMetaData'
+[2021.11.24-09.02.52:211][569]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Widgets/Perdiste.Perdiste:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/Terminar.PackageMetaData'
+[2021.11.24-09.02.52:211][569]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Widgets/Perdiste.SKEL_Perdiste_C:PreConstruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/Terminar.PackageMetaData'
+[2021.11.24-09.02.52:211][569]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Widgets/Perdiste.SKEL_Perdiste_C:Construct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/Terminar.PackageMetaData'
+[2021.11.24-09.02.52:211][569]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Widgets/Perdiste.SKEL_Perdiste_C:Tick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/Terminar.PackageMetaData'
+[2021.11.24-09.02.52:250][569]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/PerdisteD40578BF4027501D327F319CEFA843EA.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Widgets/Perdiste.uasset'
+[2021.11.24-09.02.52:793][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.11.24-09.02.52:835][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.11.24-09.02.52:864][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.11.24-09.02.53:026][569]SourceControl: rm 'PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Widgets/Terminar.uasset'
+[2021.11.24-09.02.53:134][569]AssetCheck: New page: Asset Save: Perdiste
+[2021.11.24-09.02.53:134][569]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Perdiste.Perdiste
+[2021.11.24-09.07.03:010][982]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-09.07.03:043][982]LogBlueprint: Error: [AssetLog] C:\Users\2RJ25LA_RS5\Documents\Semestres FCFM\7. Septimo Semestre\Optimizacion\Optimizacion\PF_Optimizacion\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Meta ' must have a connection.
+[2021.11.24-09.07.03:043][982]LogBlueprint: Error: [AssetLog] C:\Users\2RJ25LA_RS5\Documents\Semestres FCFM\7. Septimo Semestre\Optimizacion\Optimizacion\PF_Optimizacion\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Meta ' must have a connection.
+[2021.11.24-09.07.03:055][982]LogBlueprint: Error: [AssetLog] C:\Users\2RJ25LA_RS5\Documents\Semestres FCFM\7. Septimo Semestre\Optimizacion\Optimizacion\PF_Optimizacion\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] El nodo de la variable  Ajustar bShowMouseCursor  usa una meta no válida. Puede depender de un nodo que no esté conectado a la cadena de ejecución, y se haya eliminado.
+[2021.11.24-09.07.03:117][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.11.24-09.09.08:901][134]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-09.09.08:987][134]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.11.24-09.09.14:186][420]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacterFC22E1914020E11FDE21038F1AE817ED.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.24-09.09.14:331][420]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.24-09.09.14:331][420]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.24-09.09.16:067][513]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-09.09.16:083][513]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.24-09.09.16:084][513]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2021.11.24-09.09.16:155][513]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.11.24-09.09.16:155][513]LogPlayLevel: PlayLevel: Blueprint regeneration took 72 ms (1 blueprints)
+[2021.11.24-09.09.16:155][513]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 21:09:16)
+[2021.11.24-09.09.16:155][513]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.09.16:158][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002817s)
+[2021.11.24-09.09.16:159][513]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-09.09.16:160][513]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2021.11.24-09.09.16:160][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004118s)
+[2021.11.24-09.09.16:190][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.11.24-09.09.16:190][513]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.11.24-09.09.16:190][513]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-09.09.16:190][513]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-09.09.16:190][513]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-09.09.16:190][513]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-09.09.16:190][513]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-09.09.16:190][513]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-09.09.16:190][513]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-09.09.16:190][513]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-09.09.16:191][513]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-09.09.16:191][513]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-09.09.16:250][513]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-09.09.16:250][513]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-09.09.16:342][513]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-09.09.16:342][513]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-09.09.16:342][513]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-09.09.16:342][513]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-09.09.16:342][513]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-09.09.16:342][513]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-09.09.16:342][513]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-09.09.16:356][513]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-09.09.16:356][513]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-09.09.16:356][513]LogInit: FAudioDevice initialized.
+[2021.11.24-09.09.16:356][513]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2021.11.24-09.09.16:410][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-09.09.16:410][513]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-09.09.16:412][513]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-03.09.16
+[2021.11.24-09.09.16:412][513]LogWorld: Bringing up level for play took: 0.000914
+[2021.11.24-09.09.16:413][513]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.11.24-09.09.16:465][513]PIE: El servidor ha iniciado la sesión
+[2021.11.24-09.09.16:466][513]PIE: Play in editor total start time 0.388 seconds.
+[2021.11.24-09.09.17:154][541]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-09.09.17:154][541]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-09.09.20:833][730]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.09.21:342][754]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.09.24:911][942]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.09.25:425][969]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.09.25:925][996]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.09.26:441][ 24]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.09.27:469][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2021.11.24-09.09.27:469][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-09.09.27:470][ 79]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.09.27:977][102]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.09.28:130][110]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 7
+[2021.11.24-09.09.28:130][110]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-09.09.32:044][318]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.32:561][345]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.33:062][372]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.33:574][399]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.34:087][427]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.34:603][455]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.35:101][482]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.35:614][510]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.36:134][538]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.36:634][566]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.37:149][594]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.37:655][622]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.38:166][650]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.38:671][677]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.39:183][705]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.39:688][732]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.40:189][759]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.40:703][787]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.41:232][815]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.42:730][890]LogBlueprintUserMessages: [Raton_BP2_2] falle
+[2021.11.24-09.09.44:767][997]LogBlueprintUserMessages: [Raton_BP3] falle
+[2021.11.24-09.09.45:286][ 24]LogBlueprintUserMessages: [Raton_BP3] falle
+[2021.11.24-09.09.45:797][ 51]LogBlueprintUserMessages: [Raton_BP3] falle
+[2021.11.24-09.09.46:835][106]LogBlueprintUserMessages: [Raton_BP3] falle
+[2021.11.24-09.09.48:516][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.11.24-09.09.48:668][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.11.24-09.09.49:323][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.11.24-09.09.50:899][308]LogBlueprintUserMessages: [Raton_BP3] falle
+[2021.11.24-09.09.51:409][335]LogBlueprintUserMessages: [Raton_BP3] falle
+[2021.11.24-09.09.51:903][361]LogBlueprintUserMessages: [Raton_BP3] falle
+[2021.11.24-09.09.52:426][389]LogBlueprintUserMessages: [Raton_BP3] falle
+[2021.11.24-09.09.52:942][416]LogBlueprintUserMessages: [Raton_BP3] falle
+[2021.11.24-09.09.53:097][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-09.09.53:097][422]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.09.53:099][422]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-09.09.53:116][422]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.09.53:116][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.09.53:126][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-09.09.53:147][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.09.53:178][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-09.09.53:179][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-09.09.53:200][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.11.24-09.09.53:234][423]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.11.24-09.09.53:269][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.11.24-09.10.45:443][441]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.10.45:444][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.10.45:455][441]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.10.45:455][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.10.48:199][589]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD
+[2021.11.24-09.12.05:430][374]LogUObjectHash: Compacting FUObjectHashTables data took  13.35ms
+[2021.11.24-09.12.05:471][374]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level1_Auto34FBCA43E48BE551E3ED8D68DD36D320F.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/Level1_Auto3.umap'
+[2021.11.24-09.12.05:515][374]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose_Auto3D70481BC4A3698025F54D8961998837F.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/Maps/nose_Auto3.umap'
+[2021.11.24-09.12.05:518][374]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.182
+[2021.11.24-09.12.05:518][374]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.182
+[2021.11.24-09.12.05:518][374]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Widgets/HUD] ([1] browsable assets)...
+[2021.11.24-09.12.05:518][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Widgets/HUD]
+[2021.11.24-09.12.05:531][374]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/HUD_Auto336F9D53E46E10ED8265C6B962B2BF0D5.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Widgets/HUD_Auto3.uasset'
+[2021.11.24-09.12.05:532][374]LogFileHelpers: Auto-saving content packages took 0.014
+[2021.11.24-09.12.16:609][905]LogSlate: Window 'HUD' being destroyed
+[2021.11.24-09.13.30:462][239]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacterCE645FFE4CC56EA8DFA6ABBBF64CDA9D.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.24-09.13.30:478][239]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.24-09.13.30:478][239]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.24-09.13.30:981][269]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-09.13.31:138][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.11.24-09.13.33:055][373]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-09.13.33:064][373]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.24-09.13.33:080][373]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2021.11.24-09.13.33:146][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.11.24-09.13.33:146][373]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2021.11.24-09.13.33:147][373]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 21:13:33)
+[2021.11.24-09.13.33:147][373]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.13.33:150][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002827s)
+[2021.11.24-09.13.33:151][373]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-09.13.33:151][373]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2021.11.24-09.13.33:151][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004237s)
+[2021.11.24-09.13.33:181][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.11.24-09.13.33:181][373]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.11.24-09.13.33:181][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-09.13.33:182][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-09.13.33:182][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-09.13.33:182][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-09.13.33:182][373]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-09.13.33:182][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-09.13.33:182][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-09.13.33:182][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-09.13.33:182][373]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-09.13.33:182][373]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-09.13.33:187][373]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-09.13.33:187][373]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-09.13.33:264][373]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-09.13.33:264][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-09.13.33:264][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-09.13.33:265][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-09.13.33:265][373]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-09.13.33:265][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-09.13.33:265][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-09.13.33:282][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-09.13.33:282][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-09.13.33:282][373]LogInit: FAudioDevice initialized.
+[2021.11.24-09.13.33:282][373]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2021.11.24-09.13.33:338][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-09.13.33:338][373]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-09.13.33:339][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-03.13.33
+[2021.11.24-09.13.33:340][373]LogWorld: Bringing up level for play took: 0.000656
+[2021.11.24-09.13.33:340][373]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.11.24-09.13.33:390][373]PIE: El servidor ha iniciado la sesión
+[2021.11.24-09.13.33:390][373]PIE: Play in editor total start time 0.329 seconds.
+[2021.11.24-09.13.34:117][403]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-09.13.34:117][403]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-09.13.37:242][566]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.13.37:757][592]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.13.38:767][646]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.13.39:776][700]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.13.40:285][727]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.13.40:789][754]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.13.41:306][782]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.13.41:805][809]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.13.41:920][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-09.13.41:920][813]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.13.41:922][813]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-09.13.41:958][813]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.13.41:958][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.13.41:969][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-09.13.41:992][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.13.42:024][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-09.13.42:025][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-09.13.42:046][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.11.24-09.13.42:073][814]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.11.24-09.13.42:107][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.11.24-09.16.11:460][621]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Casa_BP.Casa_BP
+[2021.11.24-09.17.17:268][489]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-09.17.17:358][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.11.24-09.17.20:399][660]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-09.17.20:407][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-09.17.20:407][660]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 21:17:20)
+[2021.11.24-09.17.20:407][660]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.17.20:411][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002954s)
+[2021.11.24-09.17.20:413][660]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-09.17.20:414][660]LogPlayLevel: PIE: World Init took: (0.003597s)
+[2021.11.24-09.17.20:414][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.006762s)
+[2021.11.24-09.17.20:452][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.11.24-09.17.20:453][660]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.11.24-09.17.20:453][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-09.17.20:453][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-09.17.20:453][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-09.17.20:453][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-09.17.20:453][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-09.17.20:453][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-09.17.20:453][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-09.17.20:453][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-09.17.20:453][660]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-09.17.20:453][660]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-09.17.20:459][660]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-09.17.20:459][660]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-09.17.20:537][660]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-09.17.20:538][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-09.17.20:538][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-09.17.20:538][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-09.17.20:538][660]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-09.17.20:538][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-09.17.20:538][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-09.17.20:552][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-09.17.20:552][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-09.17.20:552][660]LogInit: FAudioDevice initialized.
+[2021.11.24-09.17.20:552][660]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2021.11.24-09.17.20:601][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-09.17.20:601][660]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-09.17.20:602][660]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-03.17.20
+[2021.11.24-09.17.20:602][660]LogWorld: Bringing up level for play took: 0.000696
+[2021.11.24-09.17.20:602][660]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.11.24-09.17.20:652][660]PIE: El servidor ha iniciado la sesión
+[2021.11.24-09.17.20:653][660]PIE: Play in editor total start time 0.247 seconds.
+[2021.11.24-09.17.20:787][661]LogRenderer: Reallocating scene render targets to support 1056x772 Format 10 NumSamples 1 (Frame:1).
+[2021.11.24-09.17.21:406][692]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.21:431][693]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-09.17.21:431][693]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-09.17.22:403][745]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.23:407][799]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.24:402][852]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.25:414][906]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.26:401][959]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.27:402][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.27:512][ 19]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.28:403][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.29:061][101]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.29:416][121]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.30:076][157]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.30:402][174]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.30:583][184]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.31:104][211]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.31:404][227]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.31:600][238]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.32:124][266]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.32:416][282]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.32:610][293]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.33:132][322]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.33:408][337]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.33:643][350]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.34:165][379]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.34:413][392]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.34:663][406]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.35:176][434]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.35:415][447]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.35:685][462]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.36:192][489]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.36:407][500]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.36:692][516]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.37:202][544]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.37:412][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.17.37:708][571]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.38:213][599]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.38:423][610]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.17.38:423][610]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.24-09.17.38:423][610]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.24-09.17.38:722][624]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.39:225][652]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.39:412][662]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.17.39:747][680]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.40:251][708]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.40:408][716]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.17.40:757][735]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.41:255][762]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.17.44:196][771]LogPackageName: SearchForPackageOnDisk took   2.755s, but failed to resolve None.umap.
+[2021.11.24-09.17.44:196][771]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.17.44:356][772]LogPackageName: SearchForPackageOnDisk took   0.152s, but failed to resolve None.umap.
+[2021.11.24-09.17.44:356][772]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.11.24-09.17.44:377][772]LogNet: Warning: Travel Failure: [InvalidURL]: URL no válida: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.11.24-09.17.44:377][772]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'URL no válida: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2021.11.24-09.17.44:397][772]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'URL no válida: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2021.11.24-09.17.44:397][772]LogNet: Warning: Travel Failure: [ClientTravelFailure]: URL no válida: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.11.24-09.17.44:397][772]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'URL no válida: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2021.11.24-09.17.44:397][772]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'URL no válida: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2021.11.24-09.17.44:434][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-09.17.44:434][772]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.17.44:435][772]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-09.17.44:442][772]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.17.44:443][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.17.44:453][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-09.17.44:485][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.17.44:518][772]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-09.17.44:518][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-09.17.44:519][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-09.17.44:541][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.11.24-09.17.44:676][773]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.11.24-09.17.44:716][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.11.24-09.17.46:571][874]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.11.24-09.17.46:584][874]LogSlate: Window 'Registro del mensaje' being destroyed
+[2021.11.24-09.18.34:730][609]LogContentBrowser: Attempting asset rename: Menu_Nivel -> Menu_Nivel
+[2021.11.24-09.18.44:052][153]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-09.18.44:144][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.11.24-09.18.45:017][183]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacterB274AFEE4268CBE8C1B26BA4E7A296B6.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.24-09.18.45:053][183]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.24-09.18.45:054][183]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.24-09.18.59:204][  6]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-09.18.59:289][  6]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.11.24-09.19.02:470][172]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.24-09.19.02:478][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.24-09.19.02:478][172]PIE: New page: Sesión PIE (reproducción en el editor): Level1 (23 nov. 2021 21:19:02)
+[2021.11.24-09.19.02:478][172]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.19.02:481][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003016s)
+[2021.11.24-09.19.02:483][172]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-09.19.02:483][172]LogPlayLevel: PIE: World Init took: (0.001686s)
+[2021.11.24-09.19.02:483][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004852s)
+[2021.11.24-09.19.02:523][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.11.24-09.19.02:525][172]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.11.24-09.19.02:525][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-09.19.02:525][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-09.19.02:525][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-09.19.02:525][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-09.19.02:525][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-09.19.02:525][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-09.19.02:525][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-09.19.02:525][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-09.19.02:525][172]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.24-09.19.02:526][172]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-09.19.02:599][172]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-09.19.02:599][172]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-09.19.02:678][172]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek(R) Audio)
+[2021.11.24-09.19.02:678][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-09.19.02:678][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-09.19.02:678][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-09.19.02:678][172]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-09.19.02:678][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-09.19.02:678][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-09.19.02:692][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-09.19.02:693][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-09.19.02:693][172]LogInit: FAudioDevice initialized.
+[2021.11.24-09.19.02:693][172]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2021.11.24-09.19.02:737][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-09.19.02:737][172]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-09.19.02:738][172]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-03.19.02
+[2021.11.24-09.19.02:739][172]LogWorld: Bringing up level for play took: 0.000739
+[2021.11.24-09.19.02:739][172]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.11.24-09.19.02:794][172]PIE: El servidor ha iniciado la sesión
+[2021.11.24-09.19.02:795][172]PIE: Play in editor total start time 0.319 seconds.
+[2021.11.24-09.19.03:379][195]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-09.19.03:379][195]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-09.19.03:548][204]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.04:564][258]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.05:558][311]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.06:561][365]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.06:673][371]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.19.07:182][398]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.19.07:556][418]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.07:708][426]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.19.08:211][453]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.19.08:563][471]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.19.08:563][471]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.24-09.19.08:564][471]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.24-09.19.09:560][526]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.19.10:552][582]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.19.11:551][638]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.19.11:591][640]LogNet: Browse: /Game/ThirdPersonBP/Maps/Menu_Nivel
+[2021.11.24-09.19.11:637][640]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Menu_Nivel
+[2021.11.24-09.19.11:637][640]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.19.11:639][640]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.11:643][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.11:643][640]LogWorld: UWorld::CleanupWorld for Room, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.11:643][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.11:644][640]LogWorld: UWorld::CleanupWorld for OLS_ArribaIz, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.11:644][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.11:644][640]LogWorld: UWorld::CleanupWorld for OLS_ArribaDer, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.11:644][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.11:644][640]LogWorld: UWorld::CleanupWorld for nose, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.11:644][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.11:713][640]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-09.19.11:720][640]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.11.24-09.19.11:727][640]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.11.24-09.19.11:730][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003485s)
+[2021.11.24-09.19.11:733][640]LogAIModule: Creating AISystem for world Menu_Nivel
+[2021.11.24-09.19.11:733][640]LogPlayLevel: PIE: World Init took: (0.002901s)
+[2021.11.24-09.19.11:733][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu_Nivel.Menu_Nivel to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel (0.006805s)
+[2021.11.24-09.19.11:733][640]LogAudio: Display: Audio Device (ID: 12) registered with world 'Menu_Nivel'.
+[2021.11.24-09.19.11:734][640]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-09.19.11:736][640]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel up for play (max tick rate 60) at 2021.11.24-03.19.11
+[2021.11.24-09.19.11:737][640]LogWorld: Bringing up level for play took: 0.001470
+[2021.11.24-09.19.11:757][640]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.24-09.19.11:784][640]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.19.11:814][640]LogLoad: Took 0.177315 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel)
+[2021.11.24-09.19.12:599][684]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.13:604][744]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.14:608][803]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.15:599][858]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.16:398][905]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.24-09.19.16:398][905]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.24-09.19.16:401][905]LogNet: Browse: /Game/Maps/Level1
+[2021.11.24-09.19.16:401][905]LogLoad: LoadMap: /Game/Maps/Level1
+[2021.11.24-09.19.16:401][905]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.11.24-09.19.16:403][905]LogWorld: UWorld::CleanupWorld for Menu_Nivel, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.16:404][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.16:456][905]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-09.19.16:460][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.11.24-09.19.16:461][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.19.16:464][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003058s)
+[2021.11.24-09.19.16:465][905]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-09.19.16:466][905]LogPlayLevel: PIE: World Init took: (0.001596s)
+[2021.11.24-09.19.16:466][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004819s)
+[2021.11.24-09.19.16:466][905]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2021.11.24-09.19.16:466][905]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-09.19.16:467][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-03.19.16
+[2021.11.24-09.19.16:467][905]LogWorld: Bringing up level for play took: 0.000767
+[2021.11.24-09.19.16:469][905]LogLoad: Took 0.068187 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level1)
+[2021.11.24-09.19.17:402][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.17:420][944]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2021.11.24-09.19.17:420][944]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2021.11.24-09.19.18:413][996]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.19:421][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.20:411][103]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.21:409][156]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.22:415][212]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.22:828][233]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.19.23:342][260]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.19.23:412][264]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.24:348][315]LogBlueprintUserMessages: [Raton_BP_2] falle
+[2021.11.24-09.19.24:403][318]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.25:408][374]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.19.25:408][374]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.24-09.19.25:408][374]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.24-09.19.26:411][430]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.19.27:405][486]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.19.28:424][542]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.19.28:439][543]LogNet: Browse: /Game/ThirdPersonBP/Maps/Menu_Nivel
+[2021.11.24-09.19.28:439][543]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Menu_Nivel
+[2021.11.24-09.19.28:439][543]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.19.28:440][543]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.28:443][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.28:443][543]LogWorld: UWorld::CleanupWorld for OLS_ArribaIz, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.28:443][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.28:443][543]LogWorld: UWorld::CleanupWorld for OLS_ArribaDer, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.28:443][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.28:443][543]LogWorld: UWorld::CleanupWorld for Room, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.28:443][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.28:444][543]LogWorld: UWorld::CleanupWorld for nose, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.28:444][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.28:481][543]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-09.19.28:486][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.11.24-09.19.28:487][543]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.11.24-09.19.28:489][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001006s)
+[2021.11.24-09.19.28:489][543]LogAIModule: Creating AISystem for world Menu_Nivel
+[2021.11.24-09.19.28:490][543]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2021.11.24-09.19.28:490][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Menu_Nivel.Menu_Nivel to /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel (0.002179s)
+[2021.11.24-09.19.28:490][543]LogAudio: Display: Audio Device (ID: 12) registered with world 'Menu_Nivel'.
+[2021.11.24-09.19.28:490][543]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-09.19.28:491][543]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel.Menu_Nivel up for play (max tick rate 60) at 2021.11.24-03.19.28
+[2021.11.24-09.19.28:491][543]LogWorld: Bringing up level for play took: 0.000250
+[2021.11.24-09.19.28:491][543]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.11.24-09.19.28:492][543]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.24-09.19.28:493][543]LogLoad: Took 0.053314 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel)
+[2021.11.24-09.19.29:448][593]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.30:454][652]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.31:454][710]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.32:450][762]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.33:452][819]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.33:762][820]LogRenderer: Reallocating scene render targets to support 1060x772 Format 10 NumSamples 1 (Frame:278).
+[2021.11.24-09.19.33:918][820]LogRenderer: Reallocating scene render targets to support 1140x772 Format 10 NumSamples 1 (Frame:279).
+[2021.11.24-09.19.34:069][820]LogRenderer: Reallocating scene render targets to support 1168x772 Format 10 NumSamples 1 (Frame:280).
+[2021.11.24-09.19.35:555][854]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.35:911][875]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.24-09.19.35:911][875]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.24-09.19.35:916][875]LogNet: Browse: /Game/Maps/Level1
+[2021.11.24-09.19.35:916][875]LogLoad: LoadMap: /Game/Maps/Level1
+[2021.11.24-09.19.35:916][875]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Menu_Nivel
+[2021.11.24-09.19.35:918][875]LogWorld: UWorld::CleanupWorld for Menu_Nivel, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.35:918][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.35:990][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-09.19.35:994][875]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.11.24-09.19.35:996][875]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.19.35:999][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003206s)
+[2021.11.24-09.19.36:000][875]LogAIModule: Creating AISystem for world Level1
+[2021.11.24-09.19.36:000][875]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2021.11.24-09.19.36:000][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004519s)
+[2021.11.24-09.19.36:000][875]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2021.11.24-09.19.36:000][875]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.24-09.19.36:002][875]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.24-03.19.36
+[2021.11.24-09.19.36:002][875]LogWorld: Bringing up level for play took: 0.000395
+[2021.11.24-09.19.36:004][875]LogLoad: Took 0.087242 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level1)
+[2021.11.24-09.19.36:932][920]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.37:916][971]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] hay vida
+[2021.11.24-09.19.38:134][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-09.19.38:134][981]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.24-09.19.38:135][981]LogSlate: Window 'PF_Optimizacion Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.24-09.19.38:142][981]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-09.19.38:143][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.38:157][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.24-09.19.38:183][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-09.19.38:215][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-09.19.38:215][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-09.19.38:216][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.24-09.19.38:240][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.11.24-09.19.38:270][982]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.11.24-09.19.38:307][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.11.24-09.20.50:546][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.11.24-09.20.50:824][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.24-09.20.50:836][771]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level1D97731F24777FCA9C299E183554002F8.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Level1.umap'
+[2021.11.24-09.20.50:850][771]LogFileHelpers: Saving map 'Level1' took 0.059
+[2021.11.24-09.20.50:886][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.11.24-09.20.50:920][771]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose03D5802048CD349B97DC9DA34F090A3A.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/nose.umap'
+[2021.11.24-09.20.50:922][771]LogFileHelpers: Saving map 'nose' took 0.072
+[2021.11.24-09.20.50:955][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.11.24-09.20.51:025][771]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Room4A867BD0440D4BA499641AB1E2F6F4EC.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Room.umap'
+[2021.11.24-09.20.51:026][771]LogFileHelpers: Saving map 'Room' took 0.103
+[2021.11.24-09.20.51:113][771]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacter393C688E413E7321AC3D67A2C3A680AB.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.24-09.20.51:126][771]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/HUD7D81E60840D2E2C75CE3F8AB53E41E65.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/Widgets/HUD.uasset'
+[2021.11.24-09.20.51:176][771]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.24-09.20.51:176][771]LogContentValidation: Display: Validating World /Game/Maps/nose.nose
+[2021.11.24-09.20.51:176][771]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.24-09.20.51:176][771]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/HUD.HUD
+[2021.11.24-09.20.51:176][771]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.24-09.20.51:176][771]LogContentValidation: Display: Validating World /Game/Maps/Room.Room
+[2021.11.24-09.21.07:730][741]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-09.21.07:819][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.11.24-09.24.45:831][371]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-09.24.45:912][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.11.24-09.24.49:101][541]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.11.24-09.24.49:544][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.24-09.24.49:556][541]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level1207FD4FA4AC65F97C015A6BB904C7F05.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Level1.umap'
+[2021.11.24-09.24.49:565][541]LogFileHelpers: Saving map 'Level1' took 0.055
+[2021.11.24-09.24.49:598][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.11.24-09.24.49:633][541]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/nose45404903444760B125121B91790F3F02.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/nose.umap'
+[2021.11.24-09.24.49:635][541]LogFileHelpers: Saving map 'nose' took 0.069
+[2021.11.24-09.24.49:665][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.24-09.24.49:723][541]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Room353C6BCE42E6DAD13FFCB8A6AC2D1DFC.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Room.umap'
+[2021.11.24-09.24.49:725][541]LogFileHelpers: Saving map 'Room' took 0.090
+[2021.11.24-09.24.49:809][541]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/ThirdPersonCharacter75C23EEE41DC3CF5F8BEE1A275ABF254.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.24-09.24.49:823][541]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.24-09.24.49:823][541]LogContentValidation: Display: Validating World /Game/Maps/nose.nose
+[2021.11.24-09.24.49:823][541]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.24-09.24.49:823][541]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.24-09.24.49:823][541]LogContentValidation: Display: Validating World /Game/Maps/Room.Room
+[2021.11.24-09.27.53:799][680]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level1.Level1:PersistentLevel.Level1
+[2021.11.24-09.30.23:955][294]BlueprintLog: New page: Compilar Level1
+[2021.11.24-09.30.24:014][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.11.24-09.30.25:081][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.11.24-09.30.25:093][324]LogSavePackage: Moving '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Saved/Level1E8B9A35A46156CBD743FEF92C4E8CC55.tmp' to '../../../../../../Users/2RJ25LA_RS5/Documents/Semestres FCFM/7. Septimo Semestre/Optimizacion/Optimizacion/PF_Optimizacion/Content/Maps/Level1.umap'
+[2021.11.24-09.30.25:103][324]LogFileHelpers: Saving map 'Level1' took 0.061
+[2021.11.24-09.30.25:140][324]AssetCheck: New page: Asset Save: Level1
+[2021.11.24-09.30.25:141][324]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.24-09.31.15:842][292]LogEditorTransaction: Undo Crear enlace del Pin
+[2021.11.24-09.31.16:693][315]LogEditorTransaction: Undo Crear enlace del Pin
+[2021.11.24-09.31.17:226][342]LogEditorTransaction: Undo Mover nodo
+[2021.11.24-09.31.17:777][367]LogEditorTransaction: Undo Mover nodos
+[2021.11.24-09.31.18:554][408]LogEditorTransaction: Undo Mover nodos
+[2021.11.24-09.32.06:877][232]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-09.32.06:968][232]LogBlueprint: Error: [AssetLog] C:\Users\2RJ25LA_RS5\Documents\Semestres FCFM\7. Septimo Semestre\Optimizacion\Optimizacion\PF_Optimizacion\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] El tipo de  Object  no está determinado. Conectar algo a  Proyectar a HUD  para implicar un tipo específico.
+[2021.11.24-09.32.06:969][232]LogBlueprint: Error: [AssetLog] C:\Users\2RJ25LA_RS5\Documents\Semestres FCFM\7. Septimo Semestre\Optimizacion\Optimizacion\PF_Optimizacion\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.11.24-09.32.07:047][232]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.11.24-09.32.48:096][314]LogSlate: Took 0.027794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.24-09.33.34:875][871]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2021.11.24-09.33.35:524][871]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.11.24-09.33.50:938][738]LogD3D11RHI: Error: SwapChain->ResizeBuffers(0, SizeX, SizeY, RenderTargetFormat, SwapChainFlags) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:295 
+ with error E_OUTOFMEMORY, 
+ (Size=214x33 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)) -> (Size=382x33 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018))
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     39 = 7045 KB (2D 1168x772 PF_FloatRGBA RT UAV) LightAccumulation
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     35 = 7045 KB (2D 1168x772 PF_FloatRGBA UAV) TemporalAA
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     34 = 4403 KB (2D 1168x772 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     31 = 2202 KB (2D 584x386 PF_DepthStencil) SmallDepthZ
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     29 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     26 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     24 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     28 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     25 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     42 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     27 = 1762 KB (2D 1168x386 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     43 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     44 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     30 = 881 KB (2D 1168x772 PF_G8 RT UAV) ScreenSpaceAO
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     37 = 512 KB (3D 64x64x16 PF_FloatRGBA UAV) HairLUT
+[2021.11.24-09.33.53:740][738]LogConsoleResponse:     36 = 512 KB (3D 64x64x16 PF_FloatRGBA UAV) HairLUT
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     49 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     16 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     32 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:      9 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     47 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     46 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     48 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     21 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     17 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     22 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     38 = 16 KB (2D 64x64 PF_R32_FLOAT UAV) HairCoverageLUT
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     18 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     19 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     23 = 8 KB (3D 16x16x16 PF_R16F) GTAOPreIntegrated
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     33 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     41 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     40 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:      4 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:      3 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     11 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     14 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     20 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     45 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2021.11.24-09.33.53:741][738]LogConsoleResponse:     15 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2021.11.24-09.33.53:741][738]LogConsoleResponse: 
+[2021.11.24-09.33.53:752][738]LogConsoleResponse: Pool: 40/40 MB (referenced/allocated)
+[2021.11.24-09.33.53:752][738]Cmd: rhi.DumpMemory
+[2021.11.24-09.33.53:871][738]RHI resource memory (not tracked by our allocator)
+[2021.11.24-09.33.53:897][738]               0  -  Pixel buffer memory - STAT_PixelBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.11.24-09.33.53:897][738]         3027796  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.11.24-09.33.53:897][738]        14145964  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.11.24-09.33.53:897][738]        15883794  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.11.24-09.33.53:897][738]         2754864  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.11.24-09.33.53:897][738]        30998460  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2021.11.24-09.33.53:897][738]          704588  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2021.11.24-09.33.53:897][738]       398760348  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2021.11.24-09.33.53:897][738]         2228160  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2021.11.24-09.33.53:897][738]        19592708  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2021.11.24-09.33.53:897][738]      1025969397  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2021.11.24-09.33.53:897][738]1443.926MB total
+[2021.11.24-09.33.53:897][738]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.11.24-09.33.53:897][738]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.11.24-09.33.54:143][738]Log file closed, 11/24/21 03:33:54
