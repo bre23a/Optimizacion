@@ -4533,3 +4533,5 @@ Actor End Overlap Signature  Delegate Signature
 [2021.11.25-09.21.16:798][407]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
 [2021.11.25-09.21.16:928][407]LogD3D11RHI: Shutdown
 [2021.11.25-09.21.16:928][407]LogD3D11RHI: CleanupD3DDevice
+[2021.11.25-09.21.17:293][407]LogExit: Exiting.
+[2021.11.25-09.21.17:698][407]Log file closed, 11/25/21 03:21:17
